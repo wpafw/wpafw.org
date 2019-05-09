@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Featured Artists | WPAFW
+banner: Featured Artists
 nav: true
-nav-title: Charity
-nav-order: 5
+nav-title: Artists
+nav-order: 7
 permalink: /artists
 ---
 
