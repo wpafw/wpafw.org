@@ -8,4 +8,4 @@ nav-order: 7
 permalink: /artists
 ---
 
-# artists
+look at our featured artists here!

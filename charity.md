@@ -8,4 +8,4 @@ nav-order: 5
 permalink: /charity
 ---
 
-# Charity
+give money and stuff here!
