@@ -1,55 +1,73 @@
 @charset "utf-8"
-@import "../node_modules/bulma/bulma.sass"
 
-@charset "utf-8"
+@import url('https://fonts.googleapis.com/css?family=Arvo:400,700|Roboto+Slab:300,400,700')
 
-// Import a Google Font
-@import url('https://fonts.googleapis.com/css?family=Nunito:400,700')
+$black: #151515
+$black-bis: #2A2A2A
+$black-ter: #363636
 
-// Colors
+$white: #fff
+$white-ter: #F7F7F7
+$white-bis: #eee
 
-$black:        hsl(0, 0%, 12%)
-$black-bis:    hsl(0, 0%, 16%)
-$black-ter:    hsl(0, 0%, 18%)
-
-$grey-darker:  hsl(0, 0%, 30%)
-$grey-dark:    hsl(0, 0%, 60%)
-$grey:         hsl(0, 0%, 70%)
-$grey-light:   hsl(0, 0%, 72%)
+$grey-darker: hsl(0, 0%, 30%)
+$grey-dark: hsl(0, 0%, 60%)
+$grey: hsl(0, 0%, 70%)
+$grey-light: hsl(0, 0%, 72%)
 $grey-lighter: hsl(0, 0%, 80%)
 
-$white-ter:    hsl(0, 0%, 93%)
-$white-bis:    hsl(0, 0%, 95%)
-$white:        hsl(0, 0%, 97%)
+$red: #E05252
+$orange: #F3970C
+$yellow: #FCF152
+$cyan: #55DBF6
+$green: #4DBF40
+$turquoise: #55F6CF
+$blue: #558CF6
+$purple: #B355F6
+$dark-brown: #8C4E10
+$brown: #C36B16
+$tan: #FDC689
 
-$red:          hsl(348, 100%, 61%)
-$orange:       hsl(30,  100%, 37%)
-$dark-brown:   hsl(30,  79%,  31%)
-$brown:        hsl(30,  47%,  37%)
-$tan:          hsl(30,  97%,  76%)
-$yellow:       hsl(48,  100%, 67%)
-$green:        hsl(141, 71%,  48%)
-$turquoise:    hsl(171, 100%, 41%)
-$cyan:         hsl(204, 86%,  53%)
-$blue:         hsl(217, 71%,  53%)
-$purple:       hsl(271, 100%, 71%)
-
-// Typography
-
-$family-sans-serif: BlinkMacSystemFont, -apple-system, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif 
-$family-monospace: monospace 
-$render-mode: optimizeLegibility 
-
-$size-1: 3rem 
-$size-2: 2.5rem 
-$size-3: 2rem 
-$size-4: 1.5rem 
-$size-5: 1.25rem 
-$size-6: 1rem 
-$size-7: 0.75rem 
+$arvo: 'Arvo', serif
+$roboto-slab: 'Roboto Slab', serif
 
 $weight-light: 300 
 $weight-normal: 400 
 $weight-medium: 500 
 $weight-semibold: 600 
 $weight-bold: 700 
+
+$size-1: 3rem
+$size-2: 2.5rem
+$size-3: 2rem
+$size-4: 1.5rem
+$size-5: 1.25rem
+$size-6: 1rem
+$size-7: 0.75rem
+
+html
+  font-size: 18px
+
+body, p, h1, h2, h3, h4, h5, h6
+  font-family: $roboto-slab
+
+.hero-body > .container > .title
+  font-family: $arvo
+
+h1
+  font-size: $size-1
+
+h2
+  font-size: $size-2
+
+h3
+  font-size: $size-3
+
+h4
+  font-size: $size-4
+
+h5
+  font-size: $size-5
+
+h6
+  font-size: $size-6

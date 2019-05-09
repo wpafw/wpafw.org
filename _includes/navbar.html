@@ -1,0 +1,30 @@
+{% assign links = site.pages | sort: "nav-order" %}
+{% assign class = nil %}
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{ site.baseurl }}">
+      ( ' v ' )
+    </a>
+    <a 
+      role="button" 
+      class="navbar-burger burger" 
+      onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+  <div class="navbar-menu">
+    <div class="navbar-end">
+    {% for link in links %}
+      {% if page.url contains link.url %}
+        {% assign class = ' is-active' %}
+      {% endif %}
+      {% if link.nav %}
+      <a class="navbar-item{{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.nav-title }}</a>
+      {% endif %}
+    {% endfor %}
+    </div>
+  </div>
+</nav>
