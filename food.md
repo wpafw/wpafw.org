@@ -6,3 +6,5 @@ nav-title: Food
 nav-order: 2
 permalink: /food
 ---
+
+# food

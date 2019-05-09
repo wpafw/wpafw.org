@@ -6,3 +6,5 @@ nav-title: Registration
 nav-order: 1
 permalink: /registration
 ---
+
+# registration
