@@ -8,4 +8,8 @@ nav-order: 2
 permalink: /food
 ---
 
-learn about food here!
+
+# Food
+
+Probably something edible. And tasty. Trust us.
+Check back soon!

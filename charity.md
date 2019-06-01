@@ -8,4 +8,7 @@ nav-order: 5
 permalink: /charity
 ---
 
-give money and stuff here!
+# Charities
+
+We're helping out lots of important people, we promise. 
+Check back soon!

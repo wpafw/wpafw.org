@@ -8,4 +8,8 @@ nav-order: 7
 permalink: /artists
 ---
 
-look at our featured artists here!
+# Featured Artists
+
+They tell me there will be wubs.
+
+Stay tuned! 🎧 🎶

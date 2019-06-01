@@ -8,4 +8,7 @@ nav-order: 3
 permalink: /events
 ---
 
-check out our events here!
+# Events
+
+Lots of fun stuff, we promise.
+Check back soon!
