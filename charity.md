@@ -10,5 +10,6 @@ permalink: /charity
 
 # Charities
 
-We're helping out lots of important people, we promise. 
-Check back soon!
+Every year, WPAFW chooses a local animal rescue/rehabilitation charity to support with our famed charity raffle. Previous charities include [Going Home Greyhounds, Inc](https://www.goinghomegreyhounds.org/) in Wexford, [Hide-E-Hole Ferret Rescue](https://hide-e-hole.com/) in Mt. Oliver and [Clarion PAWS](http://www.clarionpaws.org/) in Clarion. 
+
+Our charity this year will be announced soon!

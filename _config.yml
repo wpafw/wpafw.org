@@ -8,4 +8,7 @@ twitter_username: wpafw
 theme:
 markdown: kramdown
 
+kramdown:
+  parse_block_html: true
+
 

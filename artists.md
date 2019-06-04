@@ -8,7 +8,13 @@ nav-order: 7
 permalink: /artists
 ---
 
-# Featured Artists
+# Artists
+
+## Featured Artist
+
+To be announced!
+
+## Musicians
 
 They tell me there will be wubs.
 
