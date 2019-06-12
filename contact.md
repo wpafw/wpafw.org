@@ -50,7 +50,7 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 </div>
  
 
-## Email directory
+## Email Directory
 ---
 
 <div class="columns is-centered">
@@ -63,12 +63,110 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 |Charity|[charity@wpafw.org](mailto:charity@wpafw.org)|
 |Programming|[programming@wpafw.org](mailto:programming@wpafw.org)|
 |Registration|[registration@wpafw.org](mailto:registration@wpafw.org)|
+|Accessibility|[accessibility@wpafw.org](mailto:accessibility@wpafw.org)|
 |Publications/Website|[publications@wpafw.org](mailto:publications@wpafw.org)|
 |Hospitality|[hospitality@wpafw.org](mailto:hospitality@wpafw.org)|
 
 </div>
 </div>
 
+## Staff Roster
+---
+
+<div class="columns is-centered">
+<div class="column is-half">
+
+|Directors||
+|---|---|
+| Manick | Chairman |
+| Minion | Director of RegOps |
+| Mere | Director of Communications/Advertising |
+| Mae-Lin | Director of Programming |
+| Kyriellus | Director of Charity |
+| Oz Tigah  | Director of Hospitality |
+| Rakedu | Director of Hospitality |
+| Sebastian | Director of Publications/Website |
+| Kael | Director of the Bar |
+| Ysera | Director of Accessibility |
+
+</div>
+</div>
+
+<div class="columns is-centered">
+<div class="column is-one-fifth">
+
+|Bar|
+|---|
+|Asch|
+|Leon|
+|Tsu|
+|Tyler|
+|Zade|
+
+</div>
+<div class="column is-one-fifth">
+
+|Charity|
+|---|
+|Bossasaur|
+|Kelson|
+|Nova|
+|Rel|
+|Yitters|
+
+</div>
+<div class="column is-one-fifth">
+
+|Communications|
+|---|
+|Antnommer|
+|[taco 🐥](https://twitter.com/chirpbirb)|
+
+</div>
+<div class="column is-one-fifth">
+
+|Hospitality|
+|---|
+|Alpha|
+|Gallon|
+|Oakley|
+|Safler|
+|San|
+
+</div>
+<div class="column is-one-fifth">
+
+|Operations|
+|---|
+|Danny|
+|Fang|
+|Goku|
+|Puzz|
+|Topaz|
+|Zephy|
+
+</div>
+</div>
+
+<div class="columns is-centered">
+<div class="column is-one-third">
+
+|Programming|
+|---|
+|Dobie|(AV/Tech Coordinator)|
+|Hitch|(DJ Coordinator, Registration)|
+|Johann|(Volunteer Coordinator)|
+|Morgain|(Programming Assistant)|
+
+</div>
+<div class="column is-one-third">
+
+|Registration|
+|---|
+|Zydelski|
+
+</div>
+</div>
 
 ## Location
 ---
@@ -86,43 +184,3 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 >North Ridge Drive
 >
 >Allison Park, PA 15101
-
-
-
-# Staff Roster
----
-
-<div class="columns is-centered">
-<div class="column is-three-quarters">
-
-|Officer|Position|
-|---|---|
-| Manick | Chairman |
-| Minion | Director of RegOps |
-| Mere | Director of Communications/Advertising |
-| Mae-Lin | Director of Programming |
-| Kyriellus | Director of Charity |
-| Oz Tigah and Rakedu  | Director of Hospitality |
-| Sebastian | Director of Publications/Website |
-| Kael | Director of the Bar |
-| Ysera | Director of Accessibility |
-| Dobie | A/V and Tech |
-| Kelson | Charity |
-| Rel | Charity |
-| Safler | Hospitality |
-| Oakley | Hospitality |
-| San | Hospitality |
-| TylerDaWusky | Hospitality |
-| Sage | Bar/Hospitality |
-| Johann | Programming/Volunteers |
-| Zydelski | RegOps |
-| Hitch | DJ Coordinator/RegOps |
-| DannyLab | Security |
-| Goku | Shuttle Coordinator/Social Media |
-| Fang | Shuttle |
-| Antnommer | Photography |
-| Merebear | Social Media |
-| taco | website administrator nerd bird [🐥](https://twitter.com/chirpbirb) |
-
-</div>
-</div>
