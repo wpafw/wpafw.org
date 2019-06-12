@@ -80,7 +80,8 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 |---|---|
 | Manick | Chairman |
 | Minion | Director of RegOps |
-| Mere | Director of Communications/Advertising |
+| Mere | Director of External Communications |
+| Blithe | Director of External Communications (hiatus) |
 | Mae-Lin | Director of Programming |
 | Kyriellus | Director of Charity |
 | Oz Tigah  | Director of Hospitality |
