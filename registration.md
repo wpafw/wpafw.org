@@ -11,11 +11,8 @@ permalink: /registration
 # WPAFW 2019 Registration 
 We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits! Stay tuned for updates and information and be sure to pre-reg!
 
-> ### Pre-Registration will be open on June 14th! 
+> ### [Register Now!](https://wpafw.regfox.com/western-pa-furry-weekend-2019)
 > The first 200 registrants will receive a special gift!
-
-[//]: # > ### [Register Now!](https://wpafw.regfox.com/western-pa-furry-weekend-2019)
-[//]: # > The first 200 registrants will receive a special gift!
 
 ---
 
