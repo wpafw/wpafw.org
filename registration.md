@@ -8,38 +8,44 @@ nav-order: 1
 permalink: /registration
 ---
 
-# Registration
+# WPAFW 2019 Registration 
+We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits! Stay tuned for updates and information and be sure to pre-reg!
 
-Registration for WPAFW 2019 will be opening soon!
+> ### Pre-Registration will be open on June 14th! 
+> The first 200 registrants will receive a special gift!
 
-## WPAFW 2019 Registration 
+[//]: # > ### [Register Now!](https://wpafw.regfox.com/western-pa-furry-weekend-2019)
+[//]: # > The first 200 registrants will receive a special gift!
+
 ---
-We're bringing you an exciting event this year with a whole full extra day of programming on Sunday, a special duo of guests and other special surprises!  Stay tuned for updates and information and be sure to pre-reg!
 
+This year we are taking accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
 
-## Registration Levels
----
-### Food Membership: $ TBA
-An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday), meals at the event, and any publications at the event. Other perks TBA!
+## Registration levels
+### Attending Membership: $50 pre-reg / $60 on-site
+An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday), meals at the event, and any publications at the event.
+You also get 2 free seed tickets for the charity auction!
+ 
+### Sponsor Membership: $70 pre-reg / $80 on-site
+Generosity is appreciated! Sponsors help us provide even more services and activities for our membership. A sponsor gets the full privileges of an attending membership, as well as the following:
 
-#### Perks
+* An awesome Sponsor ribbon
+* A special, collectible WPAFW cup
+* Expedited badge pickup on site
+* An extra 2 seed tickets! 
+* Access to our Beer and Cider Bar on site (must be over 21)
 
-* 2 free seed tickets for the charity auction!
+### Super-Sponsor Membership: $140 (Pre-reg only!)
+You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
 
-### Food & Beer Membership: $ TBA
+* An extra special and customized WPAFW gift
+* ANOTHER extra 2 seed tickets!
+* AND a special event just for Super-Sponsors with the Guests of Honor!
+ 
+----
+For 2019 we are enforcing an 18+ age restriction.
+We presently only accept Visa, Mastercard, Amex and Discover through RegFox during pre-registration. Cash and card will be accepted at the venue.
 
-Generosity is appreciated! Sponsors help us provide even more services and activities for our membership. A sponsor gets the full privileges of an attending membership, as well as other exclusive perks, TBA.
-
-### Super-Duper Membership: $ TBA 
-
-> **pre-reg only!**
-
-You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Attending membership as well all the perks of a Food & Beer Membership, as well as other exclusive perks, TBA.
-
-
-**We enforce an 18+ age restriction.**
-
-We presently only accept Visa, Mastercard, Amex and Discover through RegFox.
 
 ## Keep up to date with updates here or the following places:
 
