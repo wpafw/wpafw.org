@@ -15,7 +15,7 @@ permalink: /travel
 
 We're in the lovely **HOME2 SUITES BY HILTON PITTSBURGH / MCCANDLESS, PA**!
 
-WPAFW group room rates are available for **four days** from **Thursday, October 4th**, through **Sunday, October 7th**.
+WPAFW group room rates are available for **four days** from **Thursday, October 4th**, through **Sunday, October 6th**.
 
 Our rate for 2019 is **$104.00 (+ 13% tax) per night**.
 
