@@ -18,7 +18,7 @@ For WPAFW 2019, they are **Das** and **Story Trail**!
 
 <div class="columns is-centered">
 
-<div class="column is-one-third">
+<div class="column is-one-half">
 
 <div class="card">
 <div class="card-image">
@@ -40,24 +40,26 @@ For WPAFW 2019, they are **Das** and **Story Trail**!
 </div>
 <div class="content">
 
+* **Website:** [aricarmbruster.com](http://aricarmbruster.com/)
+* **Instagram:** [@aric_armbruster](https://www.instagram.com/aric_armbruster/)
+* **Facebook:** [Aric Armbruster Artist/Blacksmith](https://www.facebook.com/AricArmbrusterArt/)
+* **Twitter:** [@ArtistAric](https://twitter.com/artisteric)
+
 > Metalsmith Aric Armbruster’s unique approach to artwork combines classical blacksmithing with his own brand of scrap-metal-sculpture.  By carefully selecting and assembling antique tools, scrap metal, and machine parts, Aric brings old junk back to life in the form of unique and fascinating works of art.
 
-* **Website:** [aricarmbruster.com](http://aricarmbruster.com/)
-
-
 </div>
 </div>
 </div>
 
 </div>
 
-<div class="column is-one-third">
+<div class="column is-one-half">
 
 <div class="card">
 
 <div class="card-image">
 <figure class="image is-15by5">
-<img src="https://pbs.twimg.com/profile_banners/1034227917004464128/1537491435/1500x500" alt="banner">
+<img src="{{site.baseurl}}/assets/img/story-trail.png" alt="banner">
 </figure>
 </div>
 
@@ -75,10 +77,10 @@ For WPAFW 2019, they are **Das** and **Story Trail**!
 </div>
 <div class="content">
 
-> Lady bird in way over her head. Loves to follow artists. PGH local.
-
 * **Twitter:** [@Story_Trail](https://twitter.com/story_trail)
 * **Telegram:** [t.me/storytrailart](https://t.me/storytrailart)
+
+> Hello fellas! Peeps call me Story Trail or just Story if you’d prefer. I’m a gal born and raised in Pittsburgh, PA. Formed my roots here in this wonderful city so I’m here to stay! I’m a blue-collar worker most of the time, an on-again off-again artist other times, and a dork all the time. My interests include the standard package of games, movies, cartoons, meeting new folks and Werewolf the Apocalypse. I started drawing when I was very young and always had a wild imagination to go with it. Young me was obsessed with virtual pets and creatures; from Pokemon to Neopets, you name it I loved it. It was only natural that this became the inspiration for me to draw and the subjects in my art are usually monsters or creatures with strange features or proportions. As the years have gone by, I have become more and more in awe by other folks’ creativity and imagination. I adore drawing for other folks and capturing the characters that mean so much to them in my own work. Since this going on public record, I’d love to say to the peeps who are reading this to always have confidence in your own abilities and don’t let you or anyone else get you down!  I’d also like to thank everyone who made this happen. Never in my wildest dreams would I have thought I’d be a featured artist anywhere much less one of the most fun cons in Pittsburgh. It’s an honor, and I look forward to working with the staff to provide you fellas with great art this year!
 
 </div>
 </div>
