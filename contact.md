@@ -88,6 +88,7 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 | Rakedu | Director of Hospitality |
 | Sebastian | Director of Publications/Website |
 | Kael | Director of the Bar |
+
 </div>
 </div>
 
