@@ -97,7 +97,7 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 
 |Bar|
 |---|
-|Asch|
+|Asch 🗑️|
 |Leon|
 |Tsu|
 |Tyler|
