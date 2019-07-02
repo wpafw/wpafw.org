@@ -14,7 +14,10 @@ permalink: /
 ## JOIN US!
 {: .title}
 
-### Pre-Registration will be open on June 14th! 
+### Pre-Registration is [OPEN](/registration)!!1!
+
+[Pre-register HERE!](/registration)!
+
 The first 200 registrants will receive a special gift!
 
 </section>
