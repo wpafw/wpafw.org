@@ -14,6 +14,8 @@ We're bringing you an exciting event this year with a full weekend of programmin
 > ### [Register Now!](https://wpafw.regfox.com/western-pa-furry-weekend-2019)
 > The first 200 registrants will receive a special gift!
 
+**Registration will close at 11:59PM on Saturday, Sept 14th!"**
+
 ---
 
 This year we are taking accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
