@@ -20,6 +20,8 @@ permalink: /
 
 The first 200 registrants will receive a special gift!
 
+**Registration will close at 11:59PM on Saturday, Sept 14th!**
+
 </section>
 ---
 <section class="section">
