@@ -10,8 +10,12 @@ permalink: /travel
 
 # Hotels
 
-## 🎉🎉 THE WPAFW 2019 HOTEL ROOM BLOCK IS OPEN! 🎉🎉
+## THE WPAFW 2019 HOTEL ROOM BLOCK IS CLOSED! 😢
 {:.has-text-centered}
+
+Unfortunately due to demand, our hotel block is currently FULL!  We presently cannot expand the block, but we'll be looking into other options!  Please stay tuned!
+
+---
 
 We're in the lovely **HOME2 SUITES BY HILTON PITTSBURGH / MCCANDLESS, PA**!
 
@@ -19,8 +23,8 @@ WPAFW group room rates are available for **four days** from **Thursday, October 
 
 Our rate for 2019 is **$104.00 (+ 13% tax) per night**.
 
-> ### GROUP CODE: `WPA`
-> ## [Reserve here!](http://home2suites3.hilton.com/en/hotels/pennsylvania/home2-suites-by-hilton-pittsburgh-mccandless-pa-PITMCHT/index.html)
+> ### ~~GROUP CODE: `WPA`~~
+> ## ~~[Reserve here!](#)~~
 >
 > TO BOOK YOUR ROOM, PLEASE VISIT THEIR WEBSITE:
 >
