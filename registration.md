@@ -37,9 +37,9 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 ### Super-Sponsor Membership: $140 (Pre-reg only!)
 You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
 
-* An extra special and customized WPAFW gift (and keepsake)!
+* An extra special and customized WPAFW gift!
 * ANOTHER extra 2 seed tickets!
-* AND a special event just for Super-Sponsors with the Guests of Honor!
+* AND a special event (and keepsake) just for Super-Sponsors with the Guests of Honor!
  
 ----
 For 2019 we are enforcing an 18+ age restriction.
