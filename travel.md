@@ -10,12 +10,23 @@ permalink: /travel
 
 # Hotels
 
-## THE WPAFW 2019 HOTEL ROOM BLOCK IS CLOSED! 😢
+## OVERFLOW HOTEL HAS BEEN ADDED! 🎉
 {:.has-text-centered}
 
-Unfortunately due to demand, our hotel block is currently FULL!  We presently cannot expand the block, but we'll be looking into other options!  Please stay tuned!
+## Overflow Hotel Information
 
----
+We have been able to secure a small room block from **October 3rd through the 7th, 2019** at the **Fairfield by Marriott Hotel Pittsburgh North/McCandless Crossing**!  This hotel is very close in proximity to the Home2 Suites!
+
+They are a little more expensive than the Home2 Suites but the hotel is a little over a year old.
+
+* **Kings:** $134/night
+* **Queens:** $144/night
+
+If you were looking for rooms, you can book through this link: [Fairfield Marriott Reservations](https://www.marriott.com/events/start.mi?id=1563977253501&key=GRP)
+
+If you would prefer, you may also call the hotel to book at <a href="tel:1-800-853-6113">+1 (800) 853-6113</a> and tell them you're with 'Western PA Furry Weekend' to get the group rate!
+
+## Regular (Full!) Hotel Information
 
 We're in the lovely **HOME2 SUITES BY HILTON PITTSBURGH / MCCANDLESS, PA**!
 
