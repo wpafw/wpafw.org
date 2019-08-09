@@ -66,6 +66,7 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 |Accessibility|[accessibility@wpafw.org](mailto:accessibility@wpafw.org)|
 |Publications/Website|[publications@wpafw.org](mailto:publications@wpafw.org)|
 |Hospitality|[hospitality@wpafw.org](mailto:hospitality@wpafw.org)|
+|Volunteering|[volunteer@wpafw.org](mailto:volunteer@wpafw.org)|
 
 </div>
 </div>
