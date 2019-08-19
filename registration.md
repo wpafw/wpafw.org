@@ -33,7 +33,7 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 * Expedited badge pickup on site
 * An extra 2 seed tickets! 
 * Access to our Beer and Cider Bar on site (must be over 21)
-* **NEW THIS YEAR:** Non-alcoholic drinks from local soda manufacturer, Natrona Bottling Company, will be added to the mix!  Find more info at https://www.natronabottling.com/
+  * **NEW THIS YEAR:** Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/), will be added to the mix!  Find more info at https://www.natronabottling.com/
 
 ### Super-Sponsor Membership: $140 (Pre-reg only!)
 You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
