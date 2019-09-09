@@ -61,3 +61,14 @@ Saturday night dinner with the featured artists (to be announced soon) and a cra
 
 ---
 
+# Drink
+
+Please note: 
+
+* Alcoholic are only available to Sponsors (21+).
+
+## Ciders
+* Cherry
+* Mixed Berry
+* Spiced Apple
+* Mango Peach
