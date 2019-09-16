@@ -9,23 +9,20 @@ permalink: /registration
 ---
 
 # WPAFW 2019 Registration 
-We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits! Stay tuned for updates and information and be sure to pre-reg!
+We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits! While pre-reg is over, please come and register on site! We hope to see you there! 
 
-> ### [Register Now!](https://wpafw.regfox.com/western-pa-furry-weekend-2019)
-> The first 200 registrants will receive a special gift!
-
-**Registration will close at 11:59PM on Sunday, Sept 15th!**
+> ### **Pre-registration is closed!**
 
 ---
 
 This year we are taking accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
 
 ## Registration levels
-### Attending Membership: $50 pre-reg / $60 on-site
+### Attending Membership: ~~$50 pre-reg~~ / $60 on-site
 An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday), meals at the event, and any publications at the event.
 You also get 2 free seed tickets for the charity auction!
  
-### Sponsor Membership: $70 pre-reg / $80 on-site
+### Sponsor Membership: ~~$70 pre-reg~~ / $80 on-site
 Generosity is appreciated! Sponsors help us provide even more services and activities for our membership. A sponsor gets the full privileges of an attending membership, as well as the following:
 
 * An awesome Sponsor ribbon
@@ -35,7 +32,7 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 * Access to our Beer and Cider Bar on site (must be over 21)
   * **NEW THIS YEAR:** Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/), will be added to the mix!  Find more info at https://www.natronabottling.com/
 
-### Super-Sponsor Membership: $140 (Pre-reg only!)
+### Super-Sponsor Membership: ~~$140 (Pre-reg only!)~~ 
 You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
 
 * An extra special and customized WPAFW gift!
