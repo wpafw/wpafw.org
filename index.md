@@ -14,13 +14,9 @@ permalink: /
 ## JOIN US!
 {: .title}
 
-### Pre-Registration is [OPEN](/registration)!!1!
+### Pre-Registration is CLOSED!
 
-[Pre-register HERE!](/registration)!
-
-The first 200 registrants will receive a special gift!
-
-**Registration will close at 11:59PM on Saturday, Sept 14th!**
+Pre-reg is over, but please come and [register on site](/registration)! We hope to see you there!
 
 </section>
 ---
