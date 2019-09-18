@@ -10,10 +10,7 @@ permalink: /travel
 
 # Hotels
 
-## OVERFLOW HOTEL HAS BEEN ADDED! 🎉
-{:.has-text-centered}
-
-## Overflow Hotel Information
+## Overflow (Nearly full!) Hotel Information
 
 We have been able to secure a small room block from **October 3rd through the 7th, 2019** at the **Fairfield by Marriott Hotel Pittsburgh North/McCandless Crossing**!  This hotel is very close in proximity to the Home2 Suites!
 
@@ -22,9 +19,8 @@ They are a little more expensive than the Home2 Suites but the hotel is a little
 * **Kings:** $134/night
 * **Queens:** $144/night
 
-If you were looking for rooms, you can book through this link: [Fairfield Marriott Reservations](https://www.marriott.com/events/start.mi?id=1563977253501&key=GRP)
-
-If you would prefer, you may also call the hotel to book at <a href="tel:1-800-853-6113">+1 (800) 853-6113</a> and tell them you're with 'Western PA Furry Weekend' to get the group rate!
+There are very few rooms left, but if you'd like to reserve one, please contact Alexandra Stewart at 
+<a href="tel:1-412-227-9600">+1 (412) 227-9600</a> and request a room for the "Western PA Furry Weekend" event rate.
 
 ## Regular (Full!) Hotel Information
 
@@ -34,17 +30,7 @@ WPAFW group room rates are available for **four days** from **Thursday, October 
 
 Our rate for 2019 is **$104.00 (+ 13% tax) per night**.
 
-> ### ~~GROUP CODE: `WPA`~~
-> ## ~~[Reserve here!](#)~~
->
-> TO BOOK YOUR ROOM, PLEASE VISIT THEIR WEBSITE:
->
->1. Choose your dates and number of rooms and travelers.
->2. Open the add special rate codes tab.
->3. Type the group rate code (`WPA`) in the box and proceed through the reservation.
->  * OR CALL: 1-412-630-8400 and tell them "WPA" as your group code.
-
-Reservations can be made no later than 12pm EST on 9/14/2019! Reservations after this date are subject to availability at standard rates.
+Reservations are closed!
 
 **Cancellation Policy:** Must cancel more than 72 hours before arrival. If later, you are subject to one night's room charge.
 
