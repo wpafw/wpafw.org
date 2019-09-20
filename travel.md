@@ -36,6 +36,7 @@ North Park Lodge is a rustic venue in the heart of North Park, north of Pittsbur
 
 ### Home2 Suites
 
+<<<<<<< HEAD
 <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48475.96600738912!2d-80.0482375241919!3d40.59132029033429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x88348b9c27ae693d%3A0x1407ad895b6a4ef1!2sHome2%20Suites%20by%20Hilton%20Pittsburgh%20%2F%20McCandless%2C%20PA%2C%20Duncan%20Avenue%2C%20Pittsburgh%2C%20PA!3m2!1d40.5616613!2d-80.02705069999999!4m5!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth%20Park%20Lodge%2C%20Pine%20Township%2C%20PA!3m2!1d40.617127599999996!2d-80.0169784!5e0!3m2!1sen!2sus!4v1569020959650!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 
 </div>

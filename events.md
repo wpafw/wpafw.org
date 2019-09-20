@@ -10,5 +10,10 @@ permalink: /events
 
 # Events
 
-Lots of fun stuff, we promise.
-Check back soon!
+* Charity poker tournament
+* Arts & crafts (make something you can take home with you!)
+* Karaoke
+* In The Kitchen with Oz (educational cooking session)
+* Tie Dye with Kyr (bring something white to dye if you want to participate!)
+
+Check back for more soon!

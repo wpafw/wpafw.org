@@ -47,7 +47,13 @@ Please note:
 #### Super Sponsors Only
 Super sponsor event!
 
-Saturday night dinner with the featured artists (to be announced soon) and a craft brewed CIDER FLIGHT! Including your own flight paddle with a special addition from one of the featured artists!
+Saturday night dinner with the featured artists (to be announced soon) and a craft brewed CIDER FLIGHT! Including your own flight paddle with a special addition from one of the featured artists! The flight paddle will be branded by a Das creation!
+
+##### Super Sponsor Ciders
+* Cherry
+* Mixed Berry
+* Spiced Apple
+* Mango Peach
 
 ## Sunday
 ---
