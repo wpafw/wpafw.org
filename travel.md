@@ -34,10 +34,20 @@ North Park Lodge has two parking lots that it uses for WPAFW.
 
 The lot next to the lodge will be reserved for specific use (please see WPAFW Parking Map image).  Attendees will park in the lower lot and be shuttled between it and the Lodge every 15 minutes (please see WPAFW Shuttle Path Map image).
 
+## Shuttle Service
+
+As some of you may recall, WPAFW 2018 had a shuttle service between North Park Lodge and the Home2 Suites. We are pleased to announce that we will again have this shuttle available for our attendees!
+
+In addition to 15 minute shuttle trips between upper and lower lots, hotel shuttles will be bringing to and from the Home2 Suites and the Fairfield Inn by Marriott.
+
+Being that WPAFW will be serving beer on-site, this shuttle is available for folks who will be enjoying frothy brews but do not have a safe ride available back to the hotel. Shuttle runs will be limited and available on a first-come-first-serve basis and we will update with more information closer to the con!
+
+Shuttle schedule will be posted on [Twitter (@wpafw)](https://twitter.com/wpafw) and it and further updates will be posted to new Shuttle Telegram channel ([https://t.me/ShuttleWPAFW](https://t.me/ShuttleWPAFW)).
+
 <div class="columns">
 <div class="column">
 
-### Lot Shuttle Guide
+### Shuttle Path Map
 
 <figure class="image is-4by3">
 <a href="{{'/assets/img/shuttle.jpg' | absolute_url}}" target="_blank">
@@ -47,7 +57,7 @@ The lot next to the lodge will be reserved for specific use (please see WPAFW Pa
 </div>
 <div class="column">
 
-### Parking Layout
+### Parking Map
 
 <figure class="image is-4by3">
 <a href="{{'/assets/img/layout.jpg' | absolute_url}}" target="_blank">
@@ -75,15 +85,6 @@ The lot next to the lodge will be reserved for specific use (please see WPAFW Pa
 </div>
 </div>
 
-## Shuttle Service
-
-As some of you may recall, WPAFW 2018 had a shuttle service between North Park Lodge and the Home2 Suites. We are pleased to announce that we will again have this shuttle available for our attendees!
-
-In addition to 15 minute shuttle trips between upper and lower lots, hotel shuttles will be bringing to and from the Home2 Suites and the Fairfield Inn by Marriott.
-
-Being that WPAFW will be serving beer on-site, this shuttle is available for folks who will be enjoying frothy brews but do not have a safe ride available back to the hotel. Shuttle runs will be limited and available on a first-come-first-serve basis and we will update with more information closer to the con!
-
-Shuttle schedule will be posted on [Twitter (@wpafw)](https://twitter.com/wpafw) and it and further updates will be posted to new Shuttle Telegram channel ([https://t.me/ShuttleWPAFW](https://t.me/ShuttleWPAFW)).
 
 ---
 
