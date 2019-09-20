@@ -8,7 +8,6 @@ nav-order: 6
 permalink: /travel
 ---
 
-
 # Getting to WPAFW
 
 North Park Lodge is a rustic venue in the heart of North Park, north of Pittsburgh, PA. This large and spacious lodge features an open-ceiling great room and two large satellite rooms on the main floor, as well as a dining room and bar on the lower level. There is also a large patio accessible from the dining room and even an outdoor stage!
