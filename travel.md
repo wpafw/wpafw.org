@@ -8,12 +8,92 @@ nav-order: 6
 permalink: /travel
 ---
 
+
+# Getting to WPAFW
+
+North Park Lodge is a rustic venue in the heart of North Park, north of Pittsburgh, PA. This large and spacious lodge features an open-ceiling great room and two large satellite rooms on the main floor, as well as a dining room and bar on the lower level. There is also a large patio accessible from the dining room and even an outdoor stage!
+
+## Address:
+
+<div class="columns is-centered">
+<div class="column is-three-quarters">
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1514.289133070365!2d-80.01807274182069!3d40.617127594835566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth+Park+Lodge!5e0!3m2!1sen!2sus!4v1559418858826!5m2!1sen!2sus" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+</div>
+</div>
+
+>[**North Park Lodge**](https://goo.gl/maps/o1S7uUwtQZ2aN6wi9)
+>
+>North Ridge Drive
+>
+>Allison Park, PA 15101
+
+
+## Hotel Driving Directions
+
+<div class="columns">
+<div class="column">
+
+### Home2 Suites
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48475.96600738912!2d-80.0482375241919!3d40.59132029033429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x88348b9c27ae693d%3A0x1407ad895b6a4ef1!2sHome2%20Suites%20by%20Hilton%20Pittsburgh%20%2F%20McCandless%2C%20PA%2C%20Duncan%20Avenue%2C%20Pittsburgh%2C%20PA!3m2!1d40.5616613!2d-80.02705069999999!4m5!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth%20Park%20Lodge%2C%20Pine%20Township%2C%20PA!3m2!1d40.617127599999996!2d-80.0169784!5e0!3m2!1sen!2sus!4v1569020959650!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+</div>
+<div class="column">
+
+###  Fairfield by Marriott Hotel
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24236.61056979269!2d-80.03072772383945!3d40.595106465038114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x88348b8338dab533%3A0xb284390883055ccd!2sFairfield%20Inn%20%26%20Suites%20by%20Marriott%20Pittsburgh%20North%2FMcCandless%20Crossing%2C%20Providence%20Boulevard%2C%20Pittsburgh%2C%20PA!3m2!1d40.5705719!2d-80.0189597!4m5!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth%20Park%20Lodge%2C%20Pine%20Township%2C%20PA!3m2!1d40.617127599999996!2d-80.0169784!5e0!3m2!1sen!2sus!4v1569021026402!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+</div>
+</div>
+
+
+## Parking
+
+North Park Lodge has two parking lots that it uses for WPAFW.
+
+The lot next to the lodge will be reserved for specific use (please see WPAFW Parking Map image).  Attendees will park in the lower lot and be shuttled between it and the Lodge every 15 minutes (please see WPAFW Shuttle Path Map image).
+
+<div class="columns">
+<div class="column">
+
+### Lot Shuttle Guide
+
+<figure class="image is-square">
+<a href="{{'/assets/img/shuttle.jpg' | absolute_url}}" target="_blank">
+<img src="{{'/assets/img/shuttle.jpg' | absolute_url}}"></a>
+</figure>
+
+</div>
+<div class="column">
+
+### Parking Layout
+
+<figure class="image is-square">
+<a href="{{'/assets/img/layout.jpg' | absolute_url}}" target="_blank">
+<img src="{{'/assets/img/layout.jpg' | absolute_url}}"></a>
+</figure>
+
+</div>
+</div>
+
+
+## Shuttle Service
+
+As some of you may recall, WPAFW 2018 had a shuttle service between North Park Lodge and the Home2 Suites. We are pleased to announce that we will again have this shuttle available for our attendees!
+
+In addition to 15 minute shuttle trips between upper and lower lots, hotel shuttles will be bringing to and from the Home2 Suites and the Fairfield Inn by Marriott.
+
+Being that WPAFW will be serving beer on-site, this shuttle is available for folks who will be enjoying frothy brews but do not have a safe ride available back to the hotel. Shuttle runs will be limited and available on a first-come-first-serve basis and we will update with more information closer to the con!
+
+Shuttle schedule will be posted on [Twitter (@wpafw)](https://twitter.com/wpafw) and it and further updates will be posted to new Shuttle Telegram channel [https://t.me/ShuttleWPAFW](https://t.me/ShuttleWPAFW). 
+
+---
+
 # Hotels
 
-## OVERFLOW HOTEL HAS BEEN ADDED! 🎉
-{:.has-text-centered}
-
-## Overflow Hotel Information
+## Overflow (Nearly full!) Hotel Information
 
 We have been able to secure a small room block from **October 3rd through the 7th, 2019** at the **Fairfield by Marriott Hotel Pittsburgh North/McCandless Crossing**!  This hotel is very close in proximity to the Home2 Suites!
 
@@ -22,9 +102,8 @@ They are a little more expensive than the Home2 Suites but the hotel is a little
 * **Kings:** $134/night
 * **Queens:** $144/night
 
-If you were looking for rooms, you can book through this link: [Fairfield Marriott Reservations](https://www.marriott.com/events/start.mi?id=1563977253501&key=GRP)
-
-If you would prefer, you may also call the hotel to book at <a href="tel:1-800-853-6113">+1 (800) 853-6113</a> and tell them you're with 'Western PA Furry Weekend' to get the group rate!
+There are very few rooms left, but if you'd like to reserve one, please contact Alexandra Stewart at 
+<a href="tel:1-412-227-9600">+1 (412) 227-9600</a> and request a room for the "Western PA Furry Weekend" event rate.
 
 ## Regular (Full!) Hotel Information
 
@@ -34,17 +113,7 @@ WPAFW group room rates are available for **four days** from **Thursday, October 
 
 Our rate for 2019 is **$104.00 (+ 13% tax) per night**.
 
-> ### ~~GROUP CODE: `WPA`~~
-> ## ~~[Reserve here!](#)~~
->
-> TO BOOK YOUR ROOM, PLEASE VISIT THEIR WEBSITE:
->
->1. Choose your dates and number of rooms and travelers.
->2. Open the add special rate codes tab.
->3. Type the group rate code (`WPA`) in the box and proceed through the reservation.
->  * OR CALL: 1-412-630-8400 and tell them "WPA" as your group code.
-
-Reservations can be made no later than 12pm EST on 9/14/2019! Reservations after this date are subject to availability at standard rates.
+Reservations are closed!
 
 **Cancellation Policy:** Must cancel more than 72 hours before arrival. If later, you are subject to one night's room charge.
 
@@ -74,35 +143,3 @@ Each guest is responsible for room, tax and incidental charges. Payment is accep
 
 ## Check In/Out
 The Hotel’s check in time is after 3:00pm Eastern Standard Time, and check out is by 11:00AM Eastern Standard Time. Guests arriving prior to 3:00PM will be accommodated as rooms become available, but this cannot be guaranteed. The Front Desk can arrange to check baggage for those arriving early when rooms are not available.
-
----
-
-# Getting to WPAFW
-
-North Park Lodge is a rustic venue in the heart of North Park, north of Pittsburgh, PA. This large and spacious lodge features an open-ceiling great room and two large satellite rooms on the main floor, as well as a dining room and bar on the lower level. There is also a large patio accessible from the dining room and even an outdoor stage!
-
-## Shuttle Service
-
-As some of you may recall, WPAFW 2018 had a shuttle service between North Park Lodge and the Home2 Suites. We are pleased to announce that we will again have this shuttle available for our attendees!
-
-Being that WPAFW will be serving beer on-site, this shuttle is available for folks who will be enjoying frothy brews but do not have a safe ride available back to the hotel. Shuttle runs will be limited and available on a first-come-first-serve basis and we will update with more information closer to the con!
-
----
-
-# Address:
-
-<div class="columns is-centered">
-<div class="column is-three-quarters">
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1514.289133070365!2d-80.01807274182069!3d40.617127594835566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth+Park+Lodge!5e0!3m2!1sen!2sus!4v1559418858826!5m2!1sen!2sus" width="100%" height="100%" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-</div>
-</div>
-
->[**North Park Lodge**](https://goo.gl/maps/o1S7uUwtQZ2aN6wi9)
->
->North Ridge Drive
->
->Allison Park, PA 15101
-
-
