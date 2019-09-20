@@ -28,27 +28,6 @@ North Park Lodge is a rustic venue in the heart of North Park, north of Pittsbur
 >
 >Allison Park, PA 15101
 
-
-## Hotel Driving Directions
-
-<div class="columns">
-<div class="column">
-
-### Home2 Suites
-
-<<<<<<< HEAD
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48475.96600738912!2d-80.0482375241919!3d40.59132029033429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x88348b9c27ae693d%3A0x1407ad895b6a4ef1!2sHome2%20Suites%20by%20Hilton%20Pittsburgh%20%2F%20McCandless%2C%20PA%2C%20Duncan%20Avenue%2C%20Pittsburgh%2C%20PA!3m2!1d40.5616613!2d-80.02705069999999!4m5!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth%20Park%20Lodge%2C%20Pine%20Township%2C%20PA!3m2!1d40.617127599999996!2d-80.0169784!5e0!3m2!1sen!2sus!4v1569020959650!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
-</div>
-<div class="column">
-
-###  Fairfield by Marriott Hotel
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24236.61056979269!2d-80.03072772383945!3d40.595106465038114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x88348b8338dab533%3A0xb284390883055ccd!2sFairfield%20Inn%20%26%20Suites%20by%20Marriott%20Pittsburgh%20North%2FMcCandless%20Crossing%2C%20Providence%20Boulevard%2C%20Pittsburgh%2C%20PA!3m2!1d40.5705719!2d-80.0189597!4m5!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth%20Park%20Lodge%2C%20Pine%20Township%2C%20PA!3m2!1d40.617127599999996!2d-80.0169784!5e0!3m2!1sen!2sus!4v1569021026402!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-</div>
-</div>
-
-
 ## Parking
 
 North Park Lodge has two parking lots that it uses for WPAFW.
@@ -60,7 +39,7 @@ The lot next to the lodge will be reserved for specific use (please see WPAFW Pa
 
 ### Lot Shuttle Guide
 
-<figure class="image is-square">
+<figure class="image is-4by3">
 <a href="{{'/assets/img/shuttle.jpg' | absolute_url}}" target="_blank">
 <img src="{{'/assets/img/shuttle.jpg' | absolute_url}}"></a>
 </figure>
@@ -70,7 +49,7 @@ The lot next to the lodge will be reserved for specific use (please see WPAFW Pa
 
 ### Parking Layout
 
-<figure class="image is-square">
+<figure class="image is-4by3">
 <a href="{{'/assets/img/layout.jpg' | absolute_url}}" target="_blank">
 <img src="{{'/assets/img/layout.jpg' | absolute_url}}"></a>
 </figure>
@@ -78,6 +57,23 @@ The lot next to the lodge will be reserved for specific use (please see WPAFW Pa
 </div>
 </div>
 
+## Hotel Driving Directions
+
+<div class="columns">
+<div class="column">
+
+### Home2 Suites
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d48475.96600738912!2d-80.0482375241919!3d40.59132029033429!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x88348b9c27ae693d%3A0x1407ad895b6a4ef1!2sHome2%20Suites%20by%20Hilton%20Pittsburgh%20%2F%20McCandless%2C%20PA%2C%20Duncan%20Avenue%2C%20Pittsburgh%2C%20PA!3m2!1d40.5616613!2d-80.02705069999999!4m5!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth%20Park%20Lodge%2C%20Pine%20Township%2C%20PA!3m2!1d40.617127599999996!2d-80.0169784!5e0!3m2!1sen!2sus!4v1569020959650!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+
+</div>
+<div class="column">
+
+###  Fairfield by Marriott Hotel
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d24236.61056979269!2d-80.03072772383945!3d40.595106465038114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x88348b8338dab533%3A0xb284390883055ccd!2sFairfield%20Inn%20%26%20Suites%20by%20Marriott%20Pittsburgh%20North%2FMcCandless%20Crossing%2C%20Providence%20Boulevard%2C%20Pittsburgh%2C%20PA!3m2!1d40.5705719!2d-80.0189597!4m5!1s0x8834894e2afe45b7%3A0x8c907bb3909414b5!2sNorth%20Park%20Lodge%2C%20Pine%20Township%2C%20PA!3m2!1d40.617127599999996!2d-80.0169784!5e0!3m2!1sen!2sus!4v1569021026402!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+</div>
+</div>
 
 ## Shuttle Service
 
@@ -87,7 +83,7 @@ In addition to 15 minute shuttle trips between upper and lower lots, hotel shutt
 
 Being that WPAFW will be serving beer on-site, this shuttle is available for folks who will be enjoying frothy brews but do not have a safe ride available back to the hotel. Shuttle runs will be limited and available on a first-come-first-serve basis and we will update with more information closer to the con!
 
-Shuttle schedule will be posted on [Twitter (@wpafw)](https://twitter.com/wpafw) and it and further updates will be posted to new Shuttle Telegram channel [https://t.me/ShuttleWPAFW](https://t.me/ShuttleWPAFW). 
+Shuttle schedule will be posted on [Twitter (@wpafw)](https://twitter.com/wpafw) and it and further updates will be posted to new Shuttle Telegram channel ([https://t.me/ShuttleWPAFW](https://t.me/ShuttleWPAFW)).
 
 ---
 
