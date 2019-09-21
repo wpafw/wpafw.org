@@ -68,7 +68,7 @@ Saturday night dinner with the featured artists (to be announced soon) and a cra
 
 ---
 
-# Drinks
+# Bar
 
 Please note: 
 
