@@ -15,6 +15,7 @@ Please note:
 * Times are currently TBD.
 * Menus may be subject to change.
 * Vegetarian options are part of every meal.
+* Meals are only for Sponsors and Super-Sponsors.
 
 ---
 
@@ -68,6 +69,10 @@ Saturday night dinner with the featured artists (to be announced soon) and a cra
 ---
 
 # Drinks
+
+Please note: 
+
+* Drinks are only for Sponsors and Super-Sponsors.
 
 <div class="columns">
 <div class="column">
