@@ -67,3 +67,29 @@ Saturday night dinner with the featured artists (to be announced soon) and a cra
 
 ---
 
+# Drinks
+
+<div class="columns">
+<div class="column">
+
+### Alcoholic Beverages
+
+* Coming soon!
+</div>
+<div class="column">
+
+### Sodas
+
+* Red Ribbon Cherry 
+* Red Ribbon Vanilla 
+* Red Ribbon Birch Beer 
+* Red Ribbon Pennsylvania Punch 
+* Red Ribbon Mint Ginger Ale 
+* Jamaican Hot Ginger Beer
+* Jamaican Peach Ginger Beer
+
+</div>
+</div>
+
+(All drinks are subject to availability.)
+
