@@ -72,7 +72,7 @@ Saturday night dinner with the featured artists (to be announced soon) and a cra
 
 Please note: 
 
-* Drinks are only for Sponsors and Super-Sponsors.
+* Specialty drinks at bar are part of Sponsor and Supersponsor level membership only.
 
 <div class="columns">
 <div class="column">
@@ -80,6 +80,7 @@ Please note:
 ### Alcoholic Beverages
 
 * Coming soon!
+
 </div>
 <div class="column">
 
