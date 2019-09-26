@@ -14,7 +14,7 @@ permalink: /registration
 
 > ### **Pre-registration is closed!** 
 > 
-> ### **On-site registration will open at 10 AM on Friday and 9 AM on Saturday.**
+> ### **On-site registration will be open from 10 AM - 8 PM on Friday and 9 AM - 8 PM on Saturday.**
 
 We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits! While pre-reg is over, please come and register on site! We hope to see you there! 
 
