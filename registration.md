@@ -8,12 +8,15 @@ nav-order: 1
 permalink: /registration
 ---
 
+
+
 # WPAFW 2019 Registration 
+
+> ### **Pre-registration is closed!** 
+> 
+> ### **On-site registration will open at 10 AM on Friday and 9 AM on Saturday.**
+
 We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits! While pre-reg is over, please come and register on site! We hope to see you there! 
-
-> ### **Pre-registration is closed!**
-
----
 
 This year we are taking accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
 
