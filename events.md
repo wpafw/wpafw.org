@@ -21,7 +21,7 @@ Check [the schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) for f
 
 <div class="columns is-mobile is-centered">
 <div class="column is-three-quarters">
-<embed src="{{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}" width="100%"/>
+<embed id="content" src="{{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}" width="100%"/>
 </div>
 </div>
 
