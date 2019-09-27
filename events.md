@@ -19,6 +19,12 @@ permalink: /events
 
 Check [the schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) for full details: 
 
-<iframe src="{{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}" width="80%" height="1000px"></iframe>
+<div class="columns is-mobile is-centered">
+<div class="column is-three-quarters">
+<embed src="{{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}" width="100%"/>
+</div>
+</div>
+
+Schedule changes and updates will be posted to the WPAFW Events Telegram Channel @ [t.me/wpafwofficial](https://t.me/wpafwofficial).
 
 We hope to see you there! 
