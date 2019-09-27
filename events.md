@@ -19,6 +19,6 @@ permalink: /events
 
 Check [the schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) for full details: 
 
-<iframe src="{{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}" width="100%" height="500px"></iframe>
+<iframe src="{{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}" width="80%" height="1000px"></iframe>
 
 We hope to see you there! 
