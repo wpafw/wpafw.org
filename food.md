@@ -15,7 +15,7 @@ Please note:
 * Times are currently TBD.
 * Menus may be subject to change.
 * Vegetarian options are part of every meal.
-* Meals are only for Sponsors and Super-Sponsors.
+* Meals are for all attendees!
 
 ---
 
