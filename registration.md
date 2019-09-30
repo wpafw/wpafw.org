@@ -22,7 +22,8 @@ This year we are taking accessibility needs seriously. If you need any accommoda
 
 ## Registration levels
 ### Attending Membership: ~~$50 pre-reg~~ / $60 on-site
-An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday), meals at the event, and any publications at the event.
+An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday) and any publications at the event.
+
 You also get 2 free seed tickets for the charity auction!
  
 ### Sponsor Membership: ~~$70 pre-reg~~ / $80 on-site
@@ -31,7 +32,8 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 * An awesome Sponsor ribbon
 * A special, collectible WPAFW cup
 * Expedited badge pickup on site
-* An extra 2 seed tickets! 
+* Meals at the event!
+* An extra 2 seed tickets!
 * Access to our Beer and Cider Bar on site (must be over 21)
   * **NEW THIS YEAR:** Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/), will be added to the mix!  Find more info at https://www.natronabottling.com/
 
