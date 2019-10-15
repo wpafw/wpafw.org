@@ -10,23 +10,22 @@ permalink: /registration
 
 
 
-# WPAFW 2019 Registration 
+# WPAFW 2020 Registration
 
-> ### **Pre-registration is closed!** 
-> 
-> ### **On-site registration will be open from 10 AM - 8 PM on Friday and 9 AM - 8 PM on Saturday.**
+We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits!
 
-We're bringing you an exciting event this year with a full weekend of programming including Sunday and other special surprises! Please be sure to check back frequently as we are constantly trying to expand our benefits! While pre-reg is over, please come and register on site! We hope to see you there! 
+We take accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
 
-This year we are taking accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
+
 
 ## Registration levels
-### Attending Membership: ~~$50 pre-reg~~ / $60 on-site
+### Attending Membership: TBA
+
 An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday), food and drink at the event, and any publications at the event.
 
 You also get 2 free seed tickets for the charity auction!
  
-### Sponsor Membership: ~~$70 pre-reg~~ / $80 on-site
+### Sponsor Membership: TBA
 Generosity is appreciated! Sponsors help us provide even more services and activities for our membership. A sponsor gets the full privileges of an attending membership, as well as the following:
 
 * An awesome Sponsor ribbon
@@ -36,7 +35,8 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 * Access to our Beer and Cider Bar on site (must be over 21)
   * **NEW THIS YEAR:** Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/), will be added to the mix!  Find more info at https://www.natronabottling.com/
 
-### Super-Sponsor Membership: ~~$140 (Pre-reg only!)~~ 
+### Super-Sponsor Membership: TBA
+
 You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
 
 * An extra special and customized WPAFW gift!
@@ -46,7 +46,7 @@ You are incredibly generous! We will lavish you with gifts, praise, and thanks! 
  
 ----
 
-For 2019 we are enforcing an 18+ age restriction.
+For 2020 we are enforcing an 18+ age restriction.
 
 We presently only accept Visa, Mastercard, Amex and Discover through RegFox during pre-registration. Cash and card will be accepted at the venue.
 
