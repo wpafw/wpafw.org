@@ -10,15 +10,10 @@ permalink: /charity
 
 # Charities
 
-Every year, WPAFW chooses a local animal rescue/rehabilitation charity to support with our famed charity raffle. Previous charities include [Going Home Greyhounds, Inc](https://www.goinghomegreyhounds.org/) in Wexford, [Hide-E-Hole Ferret Rescue](https://hide-e-hole.com/) in Mt. Oliver, [Clarion PAWS](http://www.clarionpaws.org/) in Clarion, and [White Oak Animal Safe Haven](https://whiteoakanimalsafehaven.com/) in White Oak. 
+Every year, WPAFW chooses a local animal rescue/rehabilitation charity to support with our famed charity raffle. Previous charities include [Going Home Greyhounds, Inc](https://www.goinghomegreyhounds.org/) in Wexford, [Hide-E-Hole Ferret Rescue](https://hide-e-hole.com/) in Mt. Oliver, [Clarion PAWS](http://www.clarionpaws.org/) in Clarion, and [White Oak Animal Safe Haven](https://whiteoakanimalsafehaven.com/) in White Oak, and [The Awesome Spirit of Wildlife](https://tasow.org).
 
-## This year we're featuring **[The Awesome Spirit of Wildlife](https://tasow.org)** as our charity!
+WPAFW 2019 featured **[The Awesome Spirit of Wildlife](https://tasow.org)** as our charity, and raised  $12,884.05 for them! That's $32.37 per attendee!
 
-![The Awesome Spirit of Wildlife]({{'/assets/img/tasow.png' | absolute_url}})
-{:.has-text-centered}
+We'll be announcing our 2020 charity soon, so keep an eye out on [our social media channels](http://wpafw.org/contact#social-media)!
 
-Located in Slippery Rock, PA TASOW rescues and furthers the education of wildlife so as to improve their lives and the relationships we have with them!
-
-"Our mission is to help communities create a sustainable future for all living things through education, biodiversity preservation, and a culture of appreciation for the natural world."
-
-Find more info at [https://tasow.org](https://tasow.org).
+See you there!

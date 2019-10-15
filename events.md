@@ -10,14 +10,9 @@ permalink: /events
 
 # Events
 
-* Charity poker tournament
-* Arts & crafts (make something you can take home with you!)
-* Karaoke
-* In The Kitchen with Oz (educational cooking session)
-* Tie Dye with Kyr (bring something white to dye if you want to participate!)
-* ...and more!
+Our schedule for 2020 will be announced soon. Stay tuned!
 
-Check [the schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) for full details: 
+Check out [last year's schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) to see what shenanigans we usually get up to:
 
 <div class="columns is-mobile is-centered">
 <div class="column is-three-quarters">
