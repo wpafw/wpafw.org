@@ -14,9 +14,9 @@ permalink: /
 ## JOIN US!
 {: .title}
 
-### Pre-Registration is CLOSED!
+### WPAFW 2020 will be held from October 9th - 11th, 2020!
 
-Pre-reg is over, but please come and [register on site](/registration)! We hope to see you there!
+Stay tuned for more news! 
 
 </section>
 ---
@@ -25,16 +25,9 @@ Pre-reg is over, but please come and [register on site](/registration)! We hope 
 ## CHARITY AUCTION!
 {: .title}
 
-Every year, WPAFW chooses a local animal rescue/rehabilitation charity to support with our famed charity raffle. Previous charities include [Going Home Greyhounds, Inc](https://www.goinghomegreyhounds.org/) in Wexford, [Hide-E-Hole Ferret Rescue](https://hide-e-hole.com/) in Mt. Oliver, [Clarion PAWS](http://www.clarionpaws.org/) in Clarion, and [White Oak Animal Safe Haven](https://whiteoakanimalsafehaven.com/) in White Oak. 
+Every year, WPAFW chooses a local animal rescue/rehabilitation charity to support with our famed charity raffle. Previous charities include [Going Home Greyhounds, Inc](https://www.goinghomegreyhounds.org/) in Wexford, [Hide-E-Hole Ferret Rescue](https://hide-e-hole.com/) in Mt. Oliver, [Clarion PAWS](http://www.clarionpaws.org/) in Clarion, [White Oak Animal Safe Haven](https://whiteoakanimalsafehaven.com/) in White Oak, and [The Awesome Spirit of Wildlife](https://tasow.org)!
 
-### This year we're featuring **[The Awesome Spirit of Wildlife](https://tasow.org)** as our charity!
-
-![The Awesome Spirit of Wildlife]({{'/assets/img/tasow.png' | absolute_url}})
-{:.has-text-centered}
-
-Find more info [here](/charity).
-
->We'll be accepting donations for our charity auction soo. If you have any questions or would like to donate, please reach out to us at [charity@wpafw.org](mailto:charity@wpafw.org).
+We'll be selecting this year's charity soon, so keep an eye out on [our social media channels](http://wpafw.org/contact#social-media)!
 
 </section>
 ---
