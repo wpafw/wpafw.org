@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Charity | WPAFW
+permalink: "/charity"
+layout: page
 banner: Charity
 nav: true
 nav-title: Charity
 nav-order: 5
-permalink: /charity
 ---
 
 # Charities

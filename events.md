@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Events | WPAFW
+permalink: "/events"
+layout: page
 banner: Events
 nav: true
 nav-title: Events
 nav-order: 3
-permalink: /events
 ---
 
 # Events

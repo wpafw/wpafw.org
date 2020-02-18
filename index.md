@@ -1,12 +1,12 @@
 ---
-layout: home
 title: Home | WPAFW
+permalink: "/"
+layout: home
 banner: Home
 banner-image: hero.jpg
 nav: true
 nav-title: Home
 nav-order: 0
-permalink: /
 ---
 
 <section class="section">

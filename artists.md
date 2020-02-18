@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Featured Artists | WPAFW
+permalink: "/artists"
+layout: page
 banner: Featured Artists
 nav: true
 nav-title: Artists
 nav-order: 7
-permalink: /artists
 ---
 
 # Artists

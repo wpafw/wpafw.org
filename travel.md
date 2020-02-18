@@ -1,11 +1,11 @@
 ---
-layout: page
 title: Travel | WPAFW
+permalink: "/travel"
+layout: page
 banner: Travel
 nav: true
 nav-title: Travel
 nav-order: 6
-permalink: /travel
 ---
 
 # Getting to WPAFW

@@ -1,13 +1,12 @@
 ---
-layout: page
 title: Contact | WPAFW
+permalink: "/contact"
+layout: page
 banner: Contact
 nav: true
 nav-title: Contact
 nav-order: 8
-permalink: /contact
 ---
-
 
 # Contact us! 
 

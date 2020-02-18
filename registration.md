@@ -1,14 +1,12 @@
 ---
-layout: page
 title: Registration | WPAFW
+permalink: "/registration"
+layout: page
 banner: Registration
 nav: true
 nav-title: Registration
 nav-order: 1
-permalink: /registration
 ---
-
-
 
 # WPAFW 2020 Registration
 
