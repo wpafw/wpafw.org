@@ -1,16 +1,16 @@
 ---
 title: Events | WPAFW
 permalink: "/events"
-layout: page
 banner: Events
 nav: true
 nav-title: Events
 nav-order: 3
+layout: page
 ---
 
 # Events
 
-Our schedule for 2020 will be announced soon. Stay tuned!
+Our schedule for 2020 will be announced soon. We're still working on it! Stay tuned. 👀
 
 Check out [last year's schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) to see what shenanigans we usually get up to:
 
