@@ -1,3 +1,11 @@
+---
+title: da da da da secret screen | WPAFW
+permalink: "/readme"
+layout: page
+banner: 👾 da da da da secret screen 👾
+nav: false
+---
+
 # secret readme page for wpafw's website oooo
 
 WPAFW's website runs on [Jekyll](https://jekyllrb.com/), and is hosted on [Github Pages](https://pages.github.com/). It uses [Bulma](https://bulma.io/) for layouts.
