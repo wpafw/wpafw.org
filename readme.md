@@ -2,7 +2,7 @@
 title: da da da da secret screen | WPAFW
 permalink: "/readme"
 layout: page
-banner: 👾 da da da da secret screen 👾
+banner: "\U0001F47E da da da da secret screen \U0001F47E"
 nav: false
 ---
 
