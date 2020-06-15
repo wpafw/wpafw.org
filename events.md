@@ -8,9 +8,9 @@ nav-order: 3
 layout: page
 ---
 
-# Events
+> ### [Please see our 2020 COVID-19 Cancellation Letter.]({{'/' | absolute_url}})
 
-Our schedule for 2020 will be announced soon. We're still working on it! Stay tuned. 👀
+# Events
 
 Check out [last year's schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) to see what shenanigans we usually get up to:
 

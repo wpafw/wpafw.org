@@ -8,6 +8,8 @@ nav-title: Food
 nav-order: 2
 ---
 
+> ### [Please see our 2020 COVID-19 Cancellation Letter.]({{'/' | absolute_url}})
+
 # Food
 
-Our menu for 2020 will be announced soon. Stay tuned!
+Nothing here but us chickens!

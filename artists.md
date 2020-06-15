@@ -8,13 +8,15 @@ nav-title: Artists
 nav-order: 7
 ---
 
+> ### [Please see our 2020 COVID-19 Cancellation Letter.]({{'/' | absolute_url}})
+
 # Artists
 
 ## Featured Artists
 
-For the first time at WPAFW, we're featuring two artists!  One artist who represents a non-traditional format and one artist who represents the traditional visual art format!
+For the first time at WPAFW, we featured two artists!  One artist who represents a non-traditional format and one artist who represents the traditional visual art format!
 
-For WPAFW 2019, they are **Das** and **Story Trail**!
+For WPAFW 2019, they were **Das** and **Story Trail**!
 
 <div class="columns is-centered">
 
