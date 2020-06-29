@@ -184,7 +184,7 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 
 |Registration|
 |---|
-|Minion (Director)|
+|Minion|(Director)|
 |Zydelski|
 |Hitch|
 
