@@ -176,7 +176,6 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 |Dobie|(AV/Tech Coordinator)|
 |Hitch|(DJ Coordinator)|
 |Johann Faust|(Volunteer Coordinator)|
-|Morgain|(Programming Assistant)|
 |Topaz|
 
 </div>
