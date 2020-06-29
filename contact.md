@@ -78,13 +78,13 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 
 |Directors||
 |---|---|
-| Manick | Chairman |
+| Manick | WPAFW Chairman, Treasurer |
 | Minion | Director of RegOps |
 | Mere | Director of External Communications |
-| Blithe | Director of External Communications (hiatus) |
+| Blithe | Director of Logistics, Chairman of the Board |
 | Mae-Lin | Director of Programming |
 | Kyriellus | Director of Charity |
-| Oz Tigah  | Director of Hospitality |
+| Oz Tigah  | Director of Hospitality, Secretary |
 | Rakedu | Director of Hospitality |
 | Kael | Director of the Bar |
 
@@ -96,74 +96,110 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 
 |Bar|
 |---|
-|Asch 🗑️|
-|Leon|
+|Kael|(Director)|
+|Banner|
+|Vade|
+|Wes|
+|Leon Jackal|
 |Tsu|
-|Tyler|
-|Zade|
+|Socks|
+|TylurDaWusky|
 
 </div>
 <div class="column is-one-fifth">
 
 |Charity|
 |---|
-|Bossasaur|
-|Kelson|
-|Nova|
+|Kyr|(Director)|
+|Yitters|(Cherry Chuckles)|
 |Rel|
-|Yitters|
+|Nova|
+|Kelson|(Petulant Plum)|
 
 </div>
 <div class="column is-one-fifth">
 
 |Communications|
 |---|
-|Antnommer|
-| Ysera |
-|[taco 🐥](https://twitter.com/chirpbirb)|
+|Merebear|(Director)|
+|Antnommer|(Photographer)|
 
 </div>
 <div class="column is-one-fifth">
 
 |Hospitality|
 |---|
-|Alpha|
-|Gallon|
+|Oz Tigah|(Co-Director)|
+|Rakedu|(Co-Director)|
+|San|
 |Oakley|
 |Safler|
-|San|
+|Razor|
+|Cross Fox|
+|Destry|
+|Hijinks|
 
 </div>
 <div class="column is-one-fifth">
 
 |Operations|
 |---|
-|Danny|
-|Fang|
-|Goku|
-|Puzz|
+|Manick|(Director)|
+|Morgain|(Coordinator)|
+|Ysera|(Accessibility Coordinator)|
+|Puzz|(Security Coordinator)|
+|Goku|(Shuttle Coordinator)|
+|[taco 🐥](https://twitter.com/chirpbirb)|(Webmaster)|
+|Alex Shire|
+|Bossasaur|
 |Topaz|
-|Zephy|
+|Alpha|
+|Fang|
 
 </div>
 </div>
 
 <div class="columns is-centered">
-<div class="column is-one-third">
+<div class="column is-one-fourth">
+
+|Logistics|
+|---|
+|Blithe|(Director)|
+|Asch 🗑️|
+
+</div>
+<div class="column is-one-fourth">
 
 |Programming|
 |---|
+|Mae-Lin|(Director)|
 |Dobie|(AV/Tech Coordinator)|
-|Hitch|(DJ Coordinator, Registration)|
-|Johann|(Volunteer Coordinator)|
+|Hitch|(DJ Coordinator)|
+|Johann Faust|(Volunteer Coordinator)|
 |Morgain|(Programming Assistant)|
+|Topaz|
 
 </div>
-<div class="column is-one-third">
+<div class="column is-one-fourth">
 
 |Registration|
 |---|
+|Minion (Director)|
 |Zydelski|
+|Hitch|
+
+</div>
+<div class="column is-one-fourth">
+
+|Shuttle|
+|---|
+|Goku|(Coordinator)|
+|Zephy|
+|Qᴜᴜχᴜᴍ Mᴇᴘʜɪᴛɪᴅᴀ|
+|NikkiWolf|
+|Darkfire|
+|Notch|
+|Foresta|
 
 </div>
 </div>
