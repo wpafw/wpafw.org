@@ -11,6 +11,14 @@ nav-order: 0
 
 <section class="section">
 
+## WPAFW 2020 Online Events!
+
+While we won't be seeing you in person for 2020, we are hard at work developing a mix of online programming and digital WPAFW-like experiences. Details coming soon!
+
+Original cancellation annoucement below: 
+
+---
+
 ## WPAFW 2020 Cancellation
 
 Please see the below letter from P.A.W. and WPAFW regarding the cancellation of WPAFW 2020.
