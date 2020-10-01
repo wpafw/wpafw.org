@@ -17,6 +17,14 @@
 
 .navbar-menu.is-active 
     animation: navbar .2s ease-in-out
+.navbar-item
+  a:hover
+    color: #223862
+
+.button
+  &__breather
+    svg
+      margin-left: 0.5em
 
 @keyframes navbar
   0% 
@@ -31,5 +39,17 @@
   100% 
     opacity: 1
     height: 400px
-  
+
+
+.stream
+  iframe
+    width: 100%
+    border-radius: 4px
+  &__main
+    iframe
+      height: 56vh
+
+  &__charity
+    iframe
+      height: 30vh
 
