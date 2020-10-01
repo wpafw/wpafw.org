@@ -49,8 +49,24 @@ nav-order: 9
 </div>
 </div>
 <div class="column is-8">
+
+<div class="subtitle">
+
+## Donations
+
+</div>
+
+Donation list goes here.
+
+<br>
+<a class="button is-success button__breather" href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=YTNPGERSHSKVG&source=url" target="_blank">
+<strong>Donate</strong>
+<i class="fas fa-donate"></i>
+</a>
+
 </div>
 </div>
+
 
 
 Donations directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
