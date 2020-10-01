@@ -9,15 +9,48 @@ nav-order: 9
 ---
 <div class="title">
 
-## Next Stream Event TBA	
+## WPAFW Live	
 
 </div>
 
 
-<div class="subtitle">
 
-Follow us on social media to learn when our next event is! 
 
+<div class="stream stream__main">
+<div id="main-stream"></div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<script type="text/javascript">
+  new Twitch.Embed("main-stream", {
+  	width: "100%",
+  	height: "100%",
+    channel: "wpafw",
+    layout: "video-with-chat",
+    theme: "dark"
+  });
+</script>
 </div>
+
+<hr>
+
+<div class="columns has-text-centered">
+<div class="column is-4">
+<div class="stream stream__charity">
+<div id="charity-stream"></div>
+<script src="https://embed.twitch.tv/embed/v1.js"></script>
+<script type="text/javascript">
+  new Twitch.Embed("charity-stream", {
+  	width: "100%",
+  	height: "100%",
+    channel: "wpafwcandle",
+    layout: "video",
+    theme: "dark"
+  });
+</script>
+</div>
+</div>
+<div class="column is-8">
+</div>
+</div>
+
 
 Donations directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
