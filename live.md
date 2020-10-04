@@ -8,7 +8,7 @@ nav-title: Virtual WPAFW
 nav-order: 9
 ---
 
-<div class="title">
+<div class="title has-text-centered">
 
 ## Virtual WPAFW  
 
@@ -37,28 +37,30 @@ nav-order: 9
 
 
 <div class="column is-7">
-<div class="subtitle">
-
-## Donations
-
-</div>
-<a class="button is-success button__breather" href="https://www.paypal.com/biz/fund?id=XQGPBWU32ZV2Q" target="_blank">
+<div class="buttons">
+<a class="button is-success button__breather button__spacer" href="https://www.paypal.com/biz/fund?id=XQGPBWU32ZV2Q" target="_blank">
 <strong>Donate to WPAFW/TSOAW</strong>
 <i class="fas fa-paw"></i>
 </a>
 
-<br>
+<a class="button is-danger button__breather button__spacer" href="https://www.redbubble.com/people/WPAFW/shop" target="_blank">
+<strong>Buy WPAFW Merch</strong>
+<i class="fas fa-tshirt"></i>
+</a>
 
-<a class="button is-warning button__breather" href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=YTNPGERSHSKVG&source=url" target="_blank">
+<a class="button is-warning button__breather button__spacer" href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=YTNPGERSHSKVG&source=url" target="_blank">
 <strong>
 Light A Candle - $3
 </strong>
 <i class="fas fa-fire"></i>
 </a>
+</div>
+
+<strong>For lighting a candle:</strong> Please include which candle (eg. A3) as well as who your candle is commemorating in your donation message.
 
 <br>
 
-Please include which candle (eg. A3) as well as who your candle is commemorating in your donation message.
+All proceeds directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
 
 <br>
 
@@ -100,4 +102,3 @@ Please include which candle (eg. A3) as well as who your candle is commemorating
 </div>
 </div>
 
-Donations directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
