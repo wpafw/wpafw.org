@@ -1,16 +1,16 @@
 ---
-title: Live | WPAFW
+title: Virtual WPAFW | WPAFW
 permalink: "/live"
 layout: live
-banner: Live
+banner: Virtual WPAFW
 nav: false
-nav-title: Live
+nav-title: Virtual WPAFW
 nav-order: 9
 ---
 
-<div class="title">
+<div class="title has-text-centered">
 
-## WPAFW Live	
+## Virtual WPAFW  
 
 </div>
 
@@ -22,8 +22,8 @@ nav-order: 9
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
 <script type="text/javascript">
   new Twitch.Embed("main-stream", {
-  	width: "100%",
-  	height: "100%",
+    width: "100%",
+    height: "100%",
     channel: "wpafw",
     layout: "video-with-chat",
     theme: "dark"
@@ -33,15 +33,55 @@ nav-order: 9
 
 <hr>
 
-<div class="columns has-text-centered">
-<div class="column is-4">
+<div class="columns">
+
+
+<div class="column is-7">
+<div class="buttons">
+<a class="button is-success button__breather button__spacer" href="https://www.paypal.com/biz/fund?id=XQGPBWU32ZV2Q" target="_blank">
+<strong>Donate to WPAFW/TSOAW</strong>
+<i class="fas fa-paw"></i>
+</a>
+
+<a class="button is-danger button__breather button__spacer" href="https://www.redbubble.com/people/WPAFW/shop" target="_blank">
+<strong>Buy WPAFW Merch</strong>
+<i class="fas fa-tshirt"></i>
+</a>
+
+<a class="button is-warning button__breather button__spacer" href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=YTNPGERSHSKVG&source=url" target="_blank">
+<strong>
+Light A Candle - $3
+</strong>
+<i class="fas fa-fire"></i>
+</a>
+</div>
+
+<strong>For lighting a candle:</strong> Please include which candle (eg. A3) as well as who your candle is commemorating in your donation message.
+
+<br>
+
+All proceeds directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
+
+<br>
+
+<div class="subtitle">
+
+### Candle Commemorations
+
+</div>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0dQASMoLeANu1FzMpc1ee8m8q3e9skEhHtRlMhEttovHFC4S4WdDZQ8SqvUBpgW4CVxo_grK17uAY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" class="embed"></iframe>
+
+</div>
+
+<div class="column is-5">
 <div class="stream stream__charity">
 <div id="charity-stream"></div>
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
 <script type="text/javascript">
   new Twitch.Embed("charity-stream", {
-  	width: "100%",
-  	height: "100%",
+    width: "100%",
+    height: "100%",
     channel: "wpafwcandle",
     layout: "video",
     theme: "dark"
@@ -49,25 +89,16 @@ nav-order: 9
 </script>
 </div>
 </div>
-<div class="column is-8">
-
-<div class="subtitle">
-
-## Donations
 
 </div>
+<div class="columns">
 
-Donation list goes here.
+<div class="column is-7">
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLjn6wWkdwJfNuTo1Xd_lFGlWhM9CFF24E81zpvx2JzR5CiRy6uAFPuaVICDpVfIauYc2eELJrINpP/pubhtml?widget=true&amp;headers=false" class="embed"></iframe>
+</div>
 
-<br>
-<a class="button is-success button__breather" href="https://www.paypal.com/donate/?cmd=_s-xclick&hosted_button_id=YTNPGERSHSKVG&source=url" target="_blank">
-<strong>Donate</strong>
-<i class="fas fa-donate"></i>
-</a>
-
+<div class="column is-5">
+<iframe src="https://discordapp.com/widget?id=714210615501127772&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" class="embed"></iframe>
 </div>
 </div>
 
-
-
-Donations directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
