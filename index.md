@@ -11,15 +11,27 @@ nav-order: 0
 
 <section class="section">
 
-## WPAFW 2020 Online Events!
+# WPAFW 2020 ONLINE EVENTS!!
 
-While we won't be seeing you in person for 2020, we are hard at work developing a mix of online programming and digital WPAFW-like experiences. Details coming soon!
+While we won't be seeing you in person for 2020, we are hard at work developing a mix of online programming and digital WPAFW-like experiences. 
 
-Original cancellation annoucement below: 
+Virtual WPAFW's invites you to enjoy two days worth of programming and is taking donations for our charity, The Awesome Spirit of Wildlife!
+
+Please see below for the schedule and visit us this weekend, <strong>Saturday, Oct 10 through Sunday, Oct. 11</strong>, at [https://wpafw.org/live](https://wpafw.org/live).
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRLjn6wWkdwJfNuTo1Xd_lFGlWhM9CFF24E81zpvx2JzR5CiRy6uAFPuaVICDpVfIauYc2eELJrINpP/pubhtml?widget=true&amp;headers=false" class="embed embed__home"></iframe>
 
 ---
 
-## WPAFW 2020 Cancellation
+## WPAFW 2021 DATES ANNOUNCEMENT!
+
+We have the dates for WPAFW 2021: October 8-10, 2021! We're really looking forward to seeing you all again! :)
+
+Original cancellation annoucement [below](#wpafw-2020-cancellation). 
+
+---
+
+### WPAFW 2020 Cancellation
 
 Please see the below letter from P.A.W. and WPAFW regarding the cancellation of WPAFW 2020.
 
