@@ -39,7 +39,7 @@ nav-order: 9
 <div class="column is-7">
 <div class="buttons">
 <a class="button is-success button__breather button__spacer" href="https://www.paypal.com/biz/fund?id=XQGPBWU32ZV2Q" target="_blank">
-<strong>Donate to WPAFW/TSOAW</strong>
+<strong>Donate to TASOW</strong>
 <i class="fas fa-paw"></i>
 </a>
 
@@ -56,11 +56,19 @@ Light A Candle - $3
 </a>
 </div>
 
+All proceeds directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
+
+<br>
+
 <strong>For lighting a candle:</strong> Please include which candle (eg. A3) as well as who your candle is commemorating in your donation message.
 
 <br>
 
-All proceeds directly support our charity, [The Awesome Spirit of Wildlife](https://tasow.org/).
+<strong>Candle Layout:</strong>
+<figure class="image is-16by9">
+<a href="{{'/assets/img/candle-layout.jpg' | absolute_url}}" target="_blank">
+<img src="{{'/assets/img/candle-layout.jpg' | absolute_url}}"></a>
+</figure>
 
 <br>
 
@@ -69,6 +77,8 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 ### Candle Commemorations
 
 </div>
+
+
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0dQASMoLeANu1FzMpc1ee8m8q3e9skEhHtRlMhEttovHFC4S4WdDZQ8SqvUBpgW4CVxo_grK17uAY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" class="embed"></iframe>
 
@@ -101,4 +111,8 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 <iframe src="https://discordapp.com/widget?id=714210615501127772&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" class="embed"></iframe>
 </div>
 </div>
+
+Logo designed by [Merebear](https://www.twitter.com/Merebeardoodles).
+
+Stream art designed by [Rel](https://twitter.com/Relosaurus).
 
