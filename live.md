@@ -28,7 +28,7 @@ nav-order: 9
 </div>
 <br>
 
-Since we're hosting many presenters on our Twitch and embedding doesn't work well with hosting, please visit the **WPAFW Twitch Channel**:
+Since we're hosting many presenters on our Twitch Channel, embedding doesn't allow for the best experience.  Please see our schedule at the bottom of the page and click the link below to take you to our live event!
 
 <br>
 
