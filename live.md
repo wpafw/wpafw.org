@@ -26,6 +26,18 @@ nav-order: 9
   });
 </script>
 </div>
+<br>
+
+Since we're hosting many presenters on our Twitch and embedding doesn't work well with hosting, please visit the **WPAFW Twitch Channel**:
+
+<br>
+
+<div class="buttons is-centered">
+<a class="button button__breather button__spacer is-danger and-also-twitch" href="https://twitch.tv/wpafw" target="_blank">
+<strong>Watch on Twitch</strong>
+<i class="fab fa-twitch"></i>
+</a>
+</div>
 
 <hr>
 
