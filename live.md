@@ -13,13 +13,6 @@ nav-order: 9
 ## Virtual WPAFW  
 
 </div>
-
-<!-- if you're looking at this, i used a lot of <br> elements to space out the thing so i wouldn't have to write more sass to space out the elements. -->
-
-<!-- i know that's not a good fix, but it works. -->
-<!-- i'm talking to my priest next week to confess my sins. -->
-<!-- message me on telegram @chirpbirb if you found this with the words "weed eater". i need more friends. -->
-
 <div class="stream stream__main">
 <div id="main-stream"></div>
 <script src="https://embed.twitch.tv/embed/v1.js"></script>
@@ -93,6 +86,14 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 
 <br>
 
+
+
+</div>
+
+</div>
+
+<div class="columns">
+<div class="column is-12">
 <div class="subtitle">
 
 ### Candle Commemorations
@@ -102,8 +103,8 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ0dQASMoLeANu1FzMpc1ee8m8q3e9skEhHtRlMhEttovHFC4S4WdDZQ8SqvUBpgW4CVxo_grK17uAY/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" class="embed"></iframe>
 
 </div>
-
 </div>
+
 <div class="columns">
 
 <div class="column is-7">
@@ -111,7 +112,9 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 </div>
 
 <div class="column is-5">
-<iframe src="https://discordapp.com/widget?id=714210615501127772&theme=dark" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" class="embed"></iframe>
+
+<iframe src="https://discord.com/widget?id=714210615501127772&theme=dark"  allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" class="embed"></iframe>
+
 </div>
 </div>
 
