@@ -13,19 +13,6 @@ nav-order: 9
 ## Virtual WPAFW  
 
 </div>
-<div class="stream stream__main">
-<div id="main-stream"></div>
-<script src="https://embed.twitch.tv/embed/v1.js"></script>
-<script type="text/javascript">
-  new Twitch.Embed("main-stream", {
-    width: "100%",
-    height: "100%",
-    channel: "wpafw",
-    layout: "video-with-chat",
-    theme: "dark"
-  });
-</script>
-</div>
 <br>
 
 Since we're hosting many presenters on our Twitch Channel, embedding doesn't allow for the best experience.  Please see our schedule at the bottom of the page and click the link below to take you to our live event!
