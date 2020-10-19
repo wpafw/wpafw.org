@@ -8,8 +8,8 @@ nav-title: Food
 nav-order: 2
 ---
 
-> ### [Please see our 2020 COVID-19 Cancellation Letter.]({{'/' | absolute_url}})
-
 # Food
 
-Nothing here but us chickens!
+> TBA
+
+Nothing here but us chickens! 🐥
