@@ -8,7 +8,7 @@ nav-order: 3
 layout: page
 ---
 
-> ### [Please see our 2020 COVID-19 Cancellation Letter.]({{'/' | absolute_url}})
+> ### [Please see our 2020 COVID-19 Cancellation Letter.]({{'/assets/WPAFW2020COVID19Letter.pdf' | absolute_url}})
 
 # Events
 
