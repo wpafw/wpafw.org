@@ -7,6 +7,7 @@ nav: true
 nav-title: Registration
 nav-order: 1
 ---
+
 # WPAFW Registration
 
 We take accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
