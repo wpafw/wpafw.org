@@ -214,8 +214,8 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 </div>
 </div>
 
->[**North Park Lodge**](https://goo.gl/maps/o1S7uUwtQZ2aN6wi9)
+> [**North Park Lodge**](https://goo.gl/maps/o1S7uUwtQZ2aN6wi9)
 >
->North Ridge Drive
+> North Ridge Drive
 >
->Allison Park, PA 15101
+> Allison Park, PA 15101
