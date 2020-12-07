@@ -8,9 +8,10 @@ nav-title: Contact
 nav-order: 8
 ---
 
-# Contact us! 
+# Contact us!
 
 ## Social Media
+
 ---
 
 <div class="columns is-centered">
@@ -47,46 +48,48 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 
 </div>
 </div>
- 
+
 
 ## Email Directory
+
 ---
 
 <div class="columns is-centered">
 <div class="column is-three-quarters">
 
-|Department|Email|
-|---|---|
-|Chairman/Operations|[event@wpafw.org](mailto:event@wpafw.org)|
-|Advertising/Communications|[advertising@wpafw.org](mailto:advertising@wpafw.org)|
-|Charity|[charity@wpafw.org](mailto:charity@wpafw.org)|
-|Programming|[programming@wpafw.org](mailto:programming@wpafw.org)|
-|Registration|[registration@wpafw.org](mailto:registration@wpafw.org)|
-|Accessibility|[accessibility@wpafw.org](mailto:accessibility@wpafw.org)|
-|Publications/Website|[publications@wpafw.org](mailto:publications@wpafw.org)|
-|Hospitality|[hospitality@wpafw.org](mailto:hospitality@wpafw.org)|
-|Volunteering|[volunteer@wpafw.org](mailto:volunteer@wpafw.org)|
+| Department                 | Email                                                     |
+| -------------------------- | --------------------------------------------------------- |
+| Chairman/Operations        | [event@wpafw.org](mailto:event@wpafw.org)                 |
+| Advertising/Communications | [advertising@wpafw.org](mailto:advertising@wpafw.org)     |
+| Charity                    | [charity@wpafw.org](mailto:charity@wpafw.org)             |
+| Programming                | [programming@wpafw.org](mailto:programming@wpafw.org)     |
+| Registration               | [registration@wpafw.org](mailto:registration@wpafw.org)   |
+| Accessibility              | [accessibility@wpafw.org](mailto:accessibility@wpafw.org) |
+| Publications/Website       | [publications@wpafw.org](mailto:publications@wpafw.org)   |
+| Hospitality                | [hospitality@wpafw.org](mailto:hospitality@wpafw.org)     |
+| Volunteering               | [volunteer@wpafw.org](mailto:volunteer@wpafw.org)         |
 
 </div>
 </div>
 
 ## Staff Roster
+
 ---
 
 <div class="columns is-centered">
 <div class="column is-half">
 
-|Directors||
-|---|---|
-| Manick | WPAFW Chairman, Treasurer |
-| Minion | Director of RegOps |
-| Mere | Director of External Communications |
-| Blithe | Director of Logistics, Chairman of the Board |
-| Mae-Lin | Director of Programming |
-| Kyriellus | Director of Charity |
-| Oz Tigah  | Director of Hospitality, Secretary |
-| Rakedu | Director of Hospitality |
-| Kael | Director of the Bar |
+| Directors |                                              |
+| --------- | -------------------------------------------- |
+| Manick    | WPAFW Chairman, Treasurer                    |
+| Minion    | Director of RegOps                           |
+| Mere      | Director of External Communications          |
+| Blithe    | Director of Logistics, Chairman of the Board |
+| Mae-Lin   | Director of Programming                      |
+| Kyriellus | Director of Charity                          |
+| Oz Tigah  | Director of Hospitality, Secretary           |
+| Rakedu    | Director of Hospitality                      |
+| Kael      | Director of the Bar                          |
 
 </div>
 </div>
@@ -94,67 +97,67 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 <div class="columns is-centered">
 <div class="column is-one-fifth">
 
-|Bar|
-|---|
-|Kael|(Director)|
-|Banner|
-|Vade|
-|Wes|
-|Leon Jackal|
-|Tsu|
-|Socks|
-|TylurDaWusky|
+| Bar          |
+| ------------ | ---------- |
+| Kael         | (Director) |
+| Banner       |
+| Vade         |
+| Wes          |
+| Leon Jackal  |
+| Tsu          |
+| Socks        |
+| TylurDaWusky |
 
 </div>
 <div class="column is-one-fifth">
 
-|Charity|
-|---|
-|Kyr|(Director)|
-|Yitters|(Cherry Chuckles)|
-|Rel|
-|Nova|
-|Kelson|(Petulant Plum)|
+| Charity |
+| ------- | ----------------- |
+| Kyr     | (Director)        |
+| Yitters | (Cherry Chuckles) |
+| Rel     |
+| Nova    |
+| Kelson  | (Petulant Plum)   |
 
 </div>
 <div class="column is-one-fifth">
 
-|Communications|
-|---|
-|Merebear|(Director)|
-|Antnommer|(Photographer)|
+| Communications |
+| -------------- | -------------- |
+| Merebear       | (Director)     |
+| Antnommer      | (Photographer) |
 
 </div>
 <div class="column is-one-fifth">
 
-|Hospitality|
-|---|
-|Oz Tigah|(Co-Director)|
-|Rakedu|(Co-Director)|
-|San|
-|Oakley|
-|Safler|
-|Razor|
-|Cross Fox|
-|Destry|
-|Hijinks|
+| Hospitality |
+| ----------- | ------------- |
+| Oz Tigah    | (Co-Director) |
+| Rakedu      | (Co-Director) |
+| San         |
+| Oakley      |
+| Safler      |
+| Razor       |
+| Cross Fox   |
+| Destry      |
+| Hijinks     |
 
 </div>
 <div class="column is-one-fifth">
 
-|Operations|
-|---|
-|Manick|(Director)|
-|Morgain|(Coordinator)|
-|Ysera|(Accessibility Coordinator)|
-|Puzz|(Security Coordinator)|
-|Goku|(Shuttle Coordinator)|
-|[taco 🐥](https://twitter.com/chirpbirb)|(Webmaster)|
-|Alex Shire|
-|Bossasaur|
-|Topaz|
-|Alpha|
-|Fang|
+| Operations                               |
+| ---------------------------------------- | --------------------------- |
+| Manick                                   | (Director)                  |
+| Morgain                                  | (Coordinator)               |
+| Ysera                                    | (Accessibility Coordinator) |
+| Puzz                                     | (Security Coordinator)      |
+| Goku                                     | (Shuttle Coordinator)       |
+| [taco 🐥](https://twitter.com/chirpbirb) | (Webmaster)                 |
+| Alex Shire                               |
+| Bossasaur                                |
+| Topaz                                    |
+| Alpha                                    |
+| Fang                                     |
 
 </div>
 </div>
@@ -162,48 +165,49 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 <div class="columns is-centered">
 <div class="column is-one-fourth">
 
-|Logistics|
-|---|
-|Blithe|(Director)|
-|Asch 🗑️|
+| Logistics |
+| --------- | ---------- |
+| Blithe    | (Director) |
+| Asch 🗑️   |
 
 </div>
 <div class="column is-one-fourth">
 
-|Programming|
-|---|
-|Mae-Lin|(Director)|
-|Dobie|(AV/Tech Coordinator)|
-|Hitch|(DJ Coordinator)|
-|Johann Faust|(Volunteer Coordinator)|
-|Topaz|
+| Programming  |
+| ------------ | ----------------------- |
+| Mae-Lin      | (Director)              |
+| Dobie        | (AV/Tech Coordinator)   |
+| Hitch        | (DJ Coordinator)        |
+| Johann Faust | (Volunteer Coordinator) |
+| Topaz        |
 
 </div>
 <div class="column is-one-fourth">
 
-|Registration|
-|---|
-|Minion|(Director)|
-|Zydelski|
-|Hitch|
+| Registration |
+| ------------ | ---------- |
+| Minion       | (Director) |
+| Zydelski     |
+| Hitch        |
 
 </div>
 <div class="column is-one-fourth">
 
-|Shuttle|
-|---|
-|Goku|(Coordinator)|
-|Zephy|
-|Qᴜᴜχᴜᴍ Mᴇᴘʜɪᴛɪᴅᴀ|
-|NikkiWolf|
-|Darkfire|
-|Notch|
-|Foresta|
+| Shuttle          |
+| ---------------- | ------------- |
+| Goku             | (Coordinator) |
+| Zephy            |
+| Qᴜᴜχᴜᴍ Mᴇᴘʜɪᴛɪᴅᴀ |
+| NikkiWolf        |
+| Darkfire         |
+| Notch            |
+| Foresta          |
 
 </div>
 </div>
 
 ## Location
+
 ---
 
 <div class="columns is-centered">

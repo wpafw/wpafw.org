@@ -22,4 +22,4 @@ Check out [last year's schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_
 
 Schedule changes and updates will be posted to the WPAFW Events Telegram Channel @ [t.me/wpafwofficial](https://t.me/wpafwofficial).
 
-We hope to see you there! 
+We hope to see you there!

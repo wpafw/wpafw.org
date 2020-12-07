@@ -1,55 +1,60 @@
 {% assign links = site.pages | sort: "nav-order" %}
 
-<nav class="navbar is-dark" role="navigation" aria-label="main navigation"><div class="container">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="{{ site.url }}">
-      <img src="{{ site.url }}/assets/img/icon.png">
-    </a>
-    <a role="button" class="navbar-burger burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
+<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{ site.url }}">
+        <img src="{{ site.url }}/assets/img/icon.png" />
+      </a>
+      <a
+        role="button"
+        class="navbar-burger burger"
+        onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');"
+      >
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+        <span aria-hidden="true"></span>
+      </a>
+    </div>
 
-  <div class="navbar-menu">
-    <div class="navbar-end">
-      {% for link in links %}
-      {% assign class = nil %}
-      {% if page.title == link.title %}
-      {% assign class = ' is-active' %}
-      {% endif %}
-      {% if link.nav %}
-      <a class="navbar-item{{ class }}" href="{{ site.baseurl }}{{ link.url }}">{{ link.nav-title }}</a>
-      {% endif %}
-      {% endfor %}
-      <div class="navbar-item" href="#">
-        <a href="https://www.facebook.com/wpafw" target="_blank">
-          <span class="fa-stack fa-1x">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-        <a href="https://twitter.com/wpafw" target="_blank">
-          <span class="fa-stack fa-1x">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-        <a href="https://t.me/wpafw">
-          <span class="fa-stack fa-1x">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-        <a href="https://t.me/wpafwofficial" target="_blank">
-          <span class="fa-stack fa-1x">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fas fa-bullhorn fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
+    <div class="navbar-menu">
+      <div class="navbar-end">
+        {% for link in links %} {% assign class = nil %} {% if page.title ==
+        link.title %} {% assign class = ' is-active' %} {% endif %} {% if
+        link.nav %}
+        <a
+          class="navbar-item{{ class }}"
+          href="{{ site.baseurl }}{{ link.url }}"
+          >{{ link.nav-title }}</a
+        >
+        {% endif %} {% endfor %}
+        <div class="navbar-item" href="#">
+          <a href="https://www.facebook.com/wpafw" target="_blank">
+            <span class="fa-stack fa-1x">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+          <a href="https://twitter.com/wpafw" target="_blank">
+            <span class="fa-stack fa-1x">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+          <a href="https://t.me/wpafw">
+            <span class="fa-stack fa-1x">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+          <a href="https://t.me/wpafwofficial" target="_blank">
+            <span class="fa-stack fa-1x">
+              <i class="fas fa-circle fa-stack-2x"></i>
+              <i class="fas fa-bullhorn fa-stack-1x fa-inverse"></i>
+            </span>
+          </a>
+        </div>
       </div>
     </div>
   </div>
-</div>
 </nav>

@@ -1,84 +1,89 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-<head>
-  {% include head.html %}
-</head>
-<body>
-<!-- if you're looking at this, i used a lot of <br> elements to space out these things so i wouldn't have to write more sass to space out the elements. -->
-<!-- i know that's not a good fix, but it works. -->
-<!-- i'm talking to my priest next week to confess my sins. -->
-<!-- message me on telegram @chirpbirb if you found this with the words "weed eater". i need more friends. -->
-<nav class="navbar is-dark" role="navigation" aria-label="main navigation">
-  <div class="container">
-    <div class="navbar-brand">
-      <a class="navbar-item" href="{{ site.url }}">
-        <img src="{{ site.url }}/assets/img/icon.png">
-      </a>
-      <a role="button" class="navbar-burger burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-      </a>
-    </div>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <!-- if you're looking at this, i used a lot of <br> elements to space out these things so i wouldn't have to write more sass to space out the elements. -->
+    <!-- i know that's not a good fix, but it works. -->
+    <!-- i'm talking to my priest next week to confess my sins. -->
+    <!-- message me on telegram @chirpbirb if you found this with the words "weed eater". i need more friends. -->
+    <nav class="navbar is-dark" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-brand">
+          <a class="navbar-item" href="{{ site.url }}">
+            <img src="{{ site.url }}/assets/img/icon.png" />
+          </a>
+          <a
+            role="button"
+            class="navbar-burger burger"
+            onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');"
+          >
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
 
-    <div class="navbar-menu">
-      <div class="navbar-start">
-        <div class="navbar-item">
-          <div class="buttons">
-            <a class="button is-success button__breather" href="https://www.paypal.com/biz/fund?id=XQGPBWU32ZV2Q" target="_blank">
-              <strong>Donate to TASOW</strong>
-              <i class="fas fa-paw"></i>
-            </a>
+        <div class="navbar-menu">
+          <div class="navbar-start">
+            <div class="navbar-item">
+              <div class="buttons">
+                <a
+                  class="button is-success button__breather"
+                  href="https://www.paypal.com/biz/fund?id=XQGPBWU32ZV2Q"
+                  target="_blank"
+                >
+                  <strong>Donate to TASOW</strong>
+                  <i class="fas fa-paw"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="navbar-end">
+            <p class="navbar-item" href="#">
+              <a href="https://www.facebook.com/wpafw">
+                <span class="fa-stack fa-1x">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              <a href="https://twitter.com/wpafw">
+                <span class="fa-stack fa-1x">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              <a href="https://t.me/wpafw">
+                <span class="fa-stack fa-1x">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              <a href="https://t.me/wpafwofficial">
+                <span class="fa-stack fa-1x">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-bullhorn fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+              <a href="https://www.redbubble.com/people/WPAFW/shop">
+                <span class="fa-stack fa-1x">
+                  <i class="fas fa-circle fa-stack-2x"></i>
+                  <i class="fas fa-tshirt fa-stack-1x fa-inverse"></i>
+                </span>
+              </a>
+            </p>
           </div>
         </div>
       </div>
-      <div class="navbar-end">
-        <p class="navbar-item" href="#">
-          <a href="https://www.facebook.com/wpafw">
-            <span class="fa-stack fa-1x">
-              <i class="fas fa-circle fa-stack-2x"></i>
-              <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-            </span>
-          </a>
-          <a href="https://twitter.com/wpafw">
-            <span class="fa-stack fa-1x">
-              <i class="fas fa-circle fa-stack-2x"></i>
-              <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-            </span>
-          </a>
-          <a href="https://t.me/wpafw">
-            <span class="fa-stack fa-1x">
-              <i class="fas fa-circle fa-stack-2x"></i>
-              <i class="fab fa-telegram-plane fa-stack-1x fa-inverse"></i>
-            </span>
-          </a>
-          <a href="https://t.me/wpafwofficial">
-            <span class="fa-stack fa-1x">
-              <i class="fas fa-circle fa-stack-2x"></i>
-              <i class="fas fa-bullhorn fa-stack-1x fa-inverse"></i>
-            </span>
-          </a>
-          <a href="https://www.redbubble.com/people/WPAFW/shop">
-            <span class="fa-stack fa-1x">
-              <i class="fas fa-circle fa-stack-2x"></i>
-              <i class="fas fa-tshirt fa-stack-1x fa-inverse"></i>
-            </span>
-          </a>          
-        </p>
+    </nav>
+    <section class="section main-content">
+      <div class="container">
+        <div class="columns">
+          <div class="column is-12">{{ content }}</div>
+        </div>
       </div>
-    </div>
-  </div>
-</nav>
-<section class="section main-content">
-<div class="container ">
-  <div class="columns">
-    <div class="column is-12">
-      {{ content }}
-    </div>
-  </div>
-</div>
-</section>
-  {% include footer.html %}
-</body>
+    </section>
+    {% include footer.html %}
+  </body>
 </html>
-

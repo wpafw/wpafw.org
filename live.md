@@ -10,12 +10,12 @@ nav-order: 9
 
 <div class="title has-text-centered">
 
-## Virtual WPAFW  
+## Virtual WPAFW
 
 </div>
 <br>
 
-Since we're hosting many presenters on our Twitch Channel, embedding doesn't allow for the best experience.  Please see our schedule at the bottom of the page and click the link below to take you to our live event!
+Since we're hosting many presenters on our Twitch Channel, embedding doesn't allow for the best experience. Please see our schedule at the bottom of the page and click the link below to take you to our live event!
 
 <br>
 
@@ -29,7 +29,6 @@ Since we're hosting many presenters on our Twitch Channel, embedding doesn't all
 <hr>
 
 <div class="columns">
-
 
 <div class="column is-7">
 <div class="buttons">
@@ -60,6 +59,7 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 <br>
 
 <strong>Candle Layout:</strong>
+
 <figure class="image is-16by9">
 <a href="{{'/assets/img/candle-layout.jpg' | absolute_url}}" target="_blank">
 <img src="{{'/assets/img/candle-layout.jpg' | absolute_url}}"></a>
@@ -84,8 +84,6 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 </div>
 
 <br>
-
-
 
 </div>
 
@@ -120,4 +118,3 @@ All proceeds directly support our charity, [The Awesome Spirit of Wildlife](http
 Logo designed by [Merebear](https://www.twitter.com/Merebeardoodles).
 
 Stream art designed by [Rel](https://twitter.com/Relosaurus).
-

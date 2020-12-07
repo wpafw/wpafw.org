@@ -13,9 +13,9 @@ nav-order: 0
 
 # Results from Virtual WPAFW 2020!
 
-Thank you to all who attended our little virtual event!  Special thanks to all the individuals responsible for making sure this event went off well!
+Thank you to all who attended our little virtual event! Special thanks to all the individuals responsible for making sure this event went off well!
 
-Donations, memorial candles and merch have put us at a total of **$2471.94** for TASOW! 
+Donations, memorial candles and merch have put us at a total of **$2471.94** for TASOW!
 
 Thank you to all our of generous attendees for your support, we couldn't do this without you!
 
@@ -26,17 +26,19 @@ Thank you to all our of generous attendees for your support, we couldn't do this
 We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking forward to seeing you all again! :)
 
 ---
+
 <section class="section">
 
 ## Contact us
+
 {: .title}
 
->**Email:** [event@wpafw.org](mailto:event@wpafw.org)
+> **Email:** [event@wpafw.org](mailto:event@wpafw.org)
 >
->[**North Park Lodge**](https://goo.gl/maps/o1S7uUwtQZ2aN6wi9)
+> [**North Park Lodge**](https://goo.gl/maps/o1S7uUwtQZ2aN6wi9)
 >
->North Ridge Drive
+> North Ridge Drive
 >
->Allison Park, PA 15101
+> Allison Park, PA 15101
 
 </section>

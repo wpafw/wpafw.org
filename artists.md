@@ -14,6 +14,6 @@ nav-order: 7
 
 > TBA
 
-## Featured Musicians 
+## Featured Musicians
 
 > TBA
