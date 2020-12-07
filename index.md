@@ -31,8 +31,6 @@ We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking f
 
 ## Contact us
 
-{: .title}
-
 > **Email:** [event@wpafw.org](mailto:event@wpafw.org)
 >
 > [**North Park Lodge**](https://goo.gl/maps/o1S7uUwtQZ2aN6wi9)
@@ -40,5 +38,6 @@ We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking f
 > North Ridge Drive
 >
 > Allison Park, PA 15101
+
 
 </section>
