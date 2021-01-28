@@ -10,7 +10,9 @@ nav-order: 1
 
 # WPAFW Registration
 
-We take accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have any questions prior to the event, email [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
+If you have any general registration questions prior to the event, please direct them to [registration@wpafw.org](mailto:registration@wpafw.org). 
+
+We also take accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have other accessibility related questions, please direct them to [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
 
 ## Registration levels
 
