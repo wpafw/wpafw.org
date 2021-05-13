@@ -10,6 +10,14 @@ nav-order: 0
 ---
 
 <section class="section">
+# WPAFW 2021 COVID-19 announcement 
+
+Please read [this letter]({{'/assets/2021CovidLetter.pdf' | absolute_url}}) regarding how we're planning on handling WPAFW 2021.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Regarding WPAFW 2021, and how we are planning on moving forward with the event this year: <a href="https://t.co/vBmuhy1Xnw">pic.twitter.com/vBmuhy1Xnw</a></p>&mdash; WPAFW (@wpafw) <a href="https://twitter.com/wpafw/status/1392637718304337921?ref_src=twsrc%5Etfw">May 13, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+</section>
+<section class="section">
 
 # Results from Virtual WPAFW 2020!
 
@@ -26,6 +34,7 @@ Thank you to all our of generous attendees for your support, we couldn't do this
 We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking forward to seeing you all again! :)
 
 ---
+</section>
 
 <section class="section">
 
