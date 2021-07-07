@@ -54,7 +54,7 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 - Access to our Beer and Cider Bar on site (must be over 21)
 - Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/)! Find more info at https://www.natronabottling.com/
 
-### Super-Sponsor Membership: $150
+### Super-Sponsor Membership: TBD
 
 You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
 
