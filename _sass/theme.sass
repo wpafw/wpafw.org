@@ -1,5 +1,22 @@
-.has-background-dark-brown
-  background-color: darken( $brown, 10% ) !important
+.has-background-dark-
+  &brown
+    background-color: darken( $brown, 10% ) !important
+  &red
+    background-color: darken( $red, 10% ) !important
+  &orange
+    background-color: darken( $orange, 10% ) !important
+  &yellow
+    background-color: darken( $yellow, 10% ) !important
+  &cyan
+    background-color: darken( $cyan, 10% ) !important
+  &green
+    background-color: darken( $green, 10% ) !important
+  &turquoise
+    background-color: darken( $turquoise, 10% ) !important
+  &blue
+    background-color: darken( $blue, 10% ) !important
+  &purple
+    background-color: darken( $purple, 10% ) !important
 
 .title
   font-family: $arvo
@@ -27,7 +44,6 @@
       margin-left: 0.5em
   &__spacer
     margin-right: 0.5em
-
 @keyframes navbar
   0% 
     display: none

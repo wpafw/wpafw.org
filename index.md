@@ -11,7 +11,16 @@ nav-order: 0
 
 <section class="section">
 
-# WPAFW 2021 COVID-19 announcement 
+
+# WPAFW 2021 DATES!
+
+We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking forward to seeing you all again! :)
+
+Find more information about registering [here](registration)!
+
+---
+
+## WPAFW 2021 COVID-19 announcement 
 
 Please read [this letter]({{'/assets/2021CovidLetter.pdf' | absolute_url}}) regarding how we're planning on handling WPAFW 2021.
 
@@ -22,11 +31,13 @@ Regarding WPAFW 2021, and how we are planning on moving forward with the event t
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
 </script> 
 
+
+---
 </section>
 
 <section class="section">
 
-# Results from Virtual WPAFW 2020!
+### Results from Virtual WPAFW 2020!
 
 Thank you to all who attended our little virtual event! Special thanks to all the individuals responsible for making sure this event went off well!
 
@@ -34,13 +45,6 @@ Donations, memorial candles and merch have put us at a total of **$2471.94** for
 
 Thank you to all our of generous attendees for your support, we couldn't do this without you!
 
----
-
-## WPAFW 2021 DATES ANNOUNCEMENT!
-
-We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking forward to seeing you all again! :)
-
----
 </section>
 
 <section class="section">

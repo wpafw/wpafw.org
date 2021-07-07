@@ -2,7 +2,8 @@
 title: Travel | WPAFW
 permalink: "/travel"
 layout: page
-banner: Travel
+banner: 🚗 Travel
+banner-color: yellow
 nav: true
 nav-title: Travel
 nav-order: 6

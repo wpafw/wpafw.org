@@ -2,7 +2,8 @@
 title: Charity | WPAFW
 permalink: "/charity"
 layout: page
-banner: Charity
+banner: 🕊️ Charity
+banner-color: purple
 nav: true
 nav-title: Charity
 nav-order: 5

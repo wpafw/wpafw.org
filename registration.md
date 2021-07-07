@@ -2,27 +2,48 @@
 title: Registration | WPAFW
 permalink: "/registration"
 layout: page
-banner: Registration
+banner: 🗳 Registration
+banner-color: blue
 nav: true
 nav-title: Registration
 nav-order: 1
 ---
 
-# WPAFW Registration
+> First 200 pre-registrations will receive a gift of oddity!
 
-If you have any general registration questions prior to the event, please direct them to [registration@wpafw.org](mailto:registration@wpafw.org). 
+# WPAFW 2021 Registration 
+
+<div class="buttons">
+  [<button class="button is-link">REGISTER HERE</button>](https://wpafw.concat.app)
+</div>
+
+_WPAFW registration is powered by [ConCat](concat.app)._
+
+---
+
+## How to register for WPAFW:
+
+1. Go to [wpafw.concat.app](https://wpafw.concat.app).
+2. Register for an account.
+3. Once registered, on the left hand side bar is the option: Register for WPAFW 2021.
+4. Select registration level and fill out the required information.
+5. After adding your registration to the cart, there is an option to add charity tickets. Click on the link if interested!
+
+If you have any general registration questions prior to the event, please direct them to [registration@wpafw.org](mailto:registration@wpafw.org).
 
 We also take accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have other accessibility related questions, please direct them to [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
 
+---
+
 ## Registration levels
 
-### Attending Membership: TBA
+### Attending Membership: $55
 
 An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday), food and drink at the event, and any publications at the event.
 
 You also get 2 free seed tickets for the charity auction!
 
-### Sponsor Membership: TBA
+### Sponsor Membership: $80
 
 Generosity is appreciated! Sponsors help us provide even more services and activities for our membership. A sponsor gets the full privileges of an attending membership, as well as the following:
 
@@ -31,9 +52,9 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 - Expedited badge pickup on site
 - An extra 2 seed tickets!
 - Access to our Beer and Cider Bar on site (must be over 21)
-  - **NEW THIS YEAR:** Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/), will be added to the mix! Find more info at https://www.natronabottling.com/
+- Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/)! Find more info at https://www.natronabottling.com/
 
-### Super-Sponsor Membership: TBA
+### Super-Sponsor Membership: $150
 
 You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
 
@@ -44,9 +65,9 @@ You are incredibly generous! We will lavish you with gifts, praise, and thanks! 
 
 ---
 
-For 2020 we are enforcing an 18+ age restriction.
+For 2021 we are enforcing an 18+ age restriction.
 
-We presently only accept Visa, Mastercard, Amex and Discover through RegFox during pre-registration. Cash and card will be accepted at the venue.
+We only accept visa, MasterCard, Amex, and discover through ConCat during pre-registration. Cash and card will be accepted at the venue.
 
 ---
 
