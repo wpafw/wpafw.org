@@ -3,6 +3,7 @@ title: Contact | WPAFW
 permalink: "/contact"
 layout: page
 banner: Contact
+banner-color: red
 nav: true
 nav-title: Contact
 nav-order: 8

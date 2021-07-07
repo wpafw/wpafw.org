@@ -1,18 +1,19 @@
 ---
 title: Events | WPAFW
 permalink: "/events"
-banner: Events
+banner: 🗓️ Events
+banner-color: orange
 nav: true
 nav-title: Events
 nav-order: 3
 layout: page
 ---
 
-> ### [Please see our 2020 COVID-19 Cancellation Letter.]({{'/assets/WPAFW2020COVID19Letter.pdf' | absolute_url}})
+# Events (2021)
 
-# Events
+> TBA, we're still figuring out how to incorporate wasps into our activities
 
-Check out [last year's schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) to see what shenanigans we usually get up to:
+Check out [2019's schedule]({{'/assets/WPAFW2019EventSched.pdf' | absolute_url}}) to see what shenanigans we usually get up to:
 
 <div class="columns is-mobile is-centered">
 <div class="column is-three-quarters">
