@@ -60,8 +60,8 @@ You are incredibly generous! We will lavish you with gifts, praise, and thanks! 
 
 - An extra special and customized WPAFW gift!
 - ANOTHER extra 2 seed tickets!
-- A craft brewed cider flight including a paddle branded by a Das creation!
-- AND a special event (and keepsake) just for Super-Sponsors with the Guests of Honor!
+- A special event (and keepsake) just for Super-Sponsors with the Guests of Honor!
+- ...and more to be announced! 🤯
 
 ---
 
