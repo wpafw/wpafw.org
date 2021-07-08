@@ -17,7 +17,7 @@ nav-order: 1
   [<button class="button is-link">REGISTER HERE</button>](https://wpafw.concat.app)
 </div>
 
-_WPAFW registration is powered by [ConCat](concat.app)._
+_WPAFW registration is powered by [ConCat](https://concat.app)._
 
 ---
 
