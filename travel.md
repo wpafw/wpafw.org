@@ -32,6 +32,58 @@ North Park Lodge is a rustic venue in the heart of North Park, north of Pittsbur
 
 # Staying at WPAFW
 
+## Staying at the Home2 Suites 
+
+### To Make Reservations by Phone
+* Reach out to the Home2 Suites at [+1(412)-630-8400](tel:+14126308400)
+* Give the Front Desk Team Member your dates of stay
+* Let the Team Member know you are traveling with the “WPAFW 2021”
+* The Team Member will assist you with finishing your reservation
+ 
+### To Make Reservations Online
+
+<div class="buttons">
+  [<button class="button is-link">Book the Home2 Suites group rate for WPAFW 2021 here!</button>](http://home2suites.hilton.com/en/ht/groups/personalized/P/PITMCHT-WPA-20211007/index.jhtml)
+</div>
+
+
+
+**Cancellation Policy:** Must cancel more than 72 hours before arrival. If later, you are subject to one night's room charge.
+
+**Pet Policy:** Yes, Pets are allowed at the Home2 Suites! Pets must be under 75lbs. There is a non-refundable fee of $75.00.
+
+### Amenities And Fine Print
+
+Some of our added group amenities include:
+
+- Flexible standard king studio suite with well equipped kitchens. These rooms include a king bed and a pull-out couch, occupancy up to four individuals.
+- Free continental breakfast daily
+- Complimentary high-speed internet access
+- Heated Indoor Saline Pool
+- Cozy Outdoor patio with comfy seating and fire pit!
+- Free Parking
+- Check out http://home2suites3.hilton.com/en/hotels/pennsylvania/home2-suites-by-hilton-pittsburgh-mccandless-pa-PITMCHT/about/amenities.html for more amenities.
+
+#### Housekeeping
+
+Housekeeping is scheduled for light service every day and a full clean service every 5th day, EXCEPT WEEKENDS. Please let the front desk agent know at time of check in if you would like housekeeping service during your weekend stay. We are not liable for un-cleaned rooms if they are not requested at check-in or by 9am.
+
+#### Early Arrivals And Late Departures Receive Prevailing Rate
+
+Guests arriving before or after the group block dates will be offered the “best available rate”.
+
+#### Method of Reservation
+
+**INDIVIDUAL GUARANTEE:** All room reservations must be guaranteed and secured with a major credit card OR a deposit equal to the first night’s room and tax. Each guest is responsible for room, tax and incidental charges. Payment is accepted in the form of cash or major credit card upon arrival. Failure to cancel a guaranteed room 3 days from day of arrival will result in a charge of one night’s room and tax applied to the credit card or forfeiture of the deposit.
+
+#### Billing Instructions
+
+Each guest is responsible for room, tax and incidental charges. Payment is accepted in the form a major credit card upon arrival.
+
+#### Check In/Out
+
+The Hotel’s check in time is after 3:00pm Eastern Standard Time, and check out is by 11:00AM Eastern Standard Time. Guests arriving prior to 3:00PM will be accommodated as rooms become available, but this cannot be guaranteed. The Front Desk can arrange to check baggage for those arriving early when rooms are not available.
+
 ## Staying at the Fairfield
 
 You will find the information for your online reservation link below. If you have questions or need help with the link, please do not hesitate to ask. We appreciate your business and look forward to a successful event.
@@ -54,60 +106,6 @@ Hotel(s) offering your special group rate:
 <div class="buttons">
   [<button class="button is-link">Book the Farfield group rate for WPAFW 2021 here!</button>](https://www.marriott.com/events/start.mi?id=1624298083851&key=GRP)
 </div>
-
-
-## Staying at the Home2 Suites 
-
-### To Make Reservations by Phone
-* Reach out to the Home2 Suites at [+1(412)-630-8400](tel:+14126308400)
-* Give the Front Desk Team Member your dates of stay
-* Let the Team Member know you are traveling with the “WPAFW 2021”
-* The Team Member will assist you with finishing your reservation
- 
-### To Make Reservations Online
-
-<div class="buttons">
-  [<button class="button is-link">Book the Home2 Suites group rate for WPAFW 2021 here!</button>](http://home2suites.hilton.com/en/ht/groups/personalized/P/PITMCHT-WPA-20211007/index.jhtml)
-</div>
-
-
-
-**Cancellation Policy:** Must cancel more than 72 hours before arrival. If later, you are subject to one night's room charge.
-
-**Pet Policy:** Yes, Pets are allowed at the Home2 Suites! Pets must be under 75lbs. There is a non-refundable fee of $75.00.
-
-## Amenities And Fine Print
-
-Some of our added group amenities include:
-
-- Flexible standard king studio suite with well equipped kitchens. These rooms include a king bed and a pull-out couch, occupancy up to four individuals.
-- Free continental breakfast daily
-- Complimentary high-speed internet access
-- Heated Indoor Saline Pool
-- Cozy Outdoor patio with comfy seating and fire pit!
-- Free Parking
-- Check out http://home2suites3.hilton.com/en/hotels/pennsylvania/home2-suites-by-hilton-pittsburgh-mccandless-pa-PITMCHT/about/amenities.html for more amenities.
-
-## Housekeeping
-
-Housekeeping is scheduled for light service every day and a full clean service every 5th day, EXCEPT WEEKENDS. Please let the front desk agent know at time of check in if you would like housekeeping service during your weekend stay. We are not liable for un-cleaned rooms if they are not requested at check-in or by 9am.
-
-## Early Arrivals And Late Departures Receive Prevailing Rate
-
-Guests arriving before or after the group block dates will be offered the “best available rate”.
-
-## Method of Reservation
-
-**INDIVIDUAL GUARANTEE:** All room reservations must be guaranteed and secured with a major credit card OR a deposit equal to the first night’s room and tax. Each guest is responsible for room, tax and incidental charges. Payment is accepted in the form of cash or major credit card upon arrival. Failure to cancel a guaranteed room 3 days from day of arrival will result in a charge of one night’s room and tax applied to the credit card or forfeiture of the deposit.
-
-## Billing Instructions
-
-Each guest is responsible for room, tax and incidental charges. Payment is accepted in the form a major credit card upon arrival.
-
-## Check In/Out
-
-The Hotel’s check in time is after 3:00pm Eastern Standard Time, and check out is by 11:00AM Eastern Standard Time. Guests arriving prior to 3:00PM will be accommodated as rooms become available, but this cannot be guaranteed. The Front Desk can arrange to check baggage for those arriving early when rooms are not available.
-
 
 ---
 
