@@ -14,7 +14,9 @@ nav-order: 0
 
 # WPAFW 2021 DATES!
 
-We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking forward to seeing you all again! :)
+We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking forward to seeing you all again! :D
+
+Pre-registration opens July 14th at Noon (7/14/2021) and will close on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration will close earlier on September 6th (9/6/2021).
 
 Find more information about registering [here](registration)!
 

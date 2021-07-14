@@ -11,6 +11,8 @@ nav-order: 1
 
 > First 200 pre-registrations will receive a gift of oddity!
 
+Pre-registration opens July 14th at Noon (7/14/2021) and will close on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration will close earlier on September 6th (9/6/2021). 
+
 # WPAFW 2021 Registration 
 
 <div class="buttons">
