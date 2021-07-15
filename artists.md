@@ -2,7 +2,7 @@
 title: Featured Artists | WPAFW
 permalink: "/artists"
 layout: page
-banner: 👨‍🎨️ Featured Artists
+banner: "\U0001F468‍\U0001F3A8️ Featured Artists"
 banner-color: blue
 nav: true
 nav-title: Artists

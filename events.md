@@ -1,7 +1,7 @@
 ---
 title: Events | WPAFW
 permalink: "/events"
-banner: 🗓️ Events
+banner: "\U0001F5D3️ Events"
 banner-color: orange
 nav: true
 nav-title: Events

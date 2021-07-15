@@ -11,7 +11,7 @@ collections:
 email: event@wpafw.org
 description: Western PA Furry Weekend
 twitter_username: wpafw
-theme:
+theme: 
 markdown: kramdown
 kramdown:
   parse_block_html: true

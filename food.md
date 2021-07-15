@@ -2,7 +2,7 @@
 title: Food | WPAFW
 permalink: "/food"
 layout: page
-banner: 🌮 Food
+banner: "\U0001F32E Food"
 banner-color: green
 nav: true
 nav-title: Food
