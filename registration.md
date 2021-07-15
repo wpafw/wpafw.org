@@ -2,7 +2,7 @@
 title: Registration | WPAFW
 permalink: "/registration"
 layout: page
-banner: 🗳 Registration
+banner: 🗳 Registration (2021)
 banner-color: blue
 nav: true
 nav-title: Registration
@@ -11,19 +11,19 @@ nav-order: 1
 
 > First 200 pre-registrations will receive a gift of oddity!
 
-Pre-registration opens July 14th at Noon (7/14/2021) and will close on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration will close earlier on September 6th (9/6/2021). 
+Pre-registration opened July 14th at Noon (7/14/2021) and will close on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration will close earlier on September 6th (9/6/2021). 
 
-# WPAFW 2021 Registration 
+# WPAFW 2021 Pre-Registration 
 
 <div class="buttons">
-  [<button class="button is-link">REGISTER HERE</button>](https://wpafw.concat.app)
+  [<button class="button is-link">PRE-REGISTER HERE</button>](https://wpafw.concat.app)
 </div>
 
 _WPAFW registration is powered by [ConCat](https://concat.app)._
 
 ---
 
-## How to register for WPAFW:
+## How to pre-register for WPAFW:
 
 1. Go to [wpafw.concat.app](https://wpafw.concat.app).
 2. Register for an account.
