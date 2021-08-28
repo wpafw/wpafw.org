@@ -11,6 +11,26 @@ nav-order: 2
 
 # Food (2021 Menu)
 
-> TBA, but it'll be good, we promise
+## Friday
 
-Nothing here but us gryphons! (for now) 🐥
+* Friday lunch
+  - Grill cheese and soup
+
+* Friday dinner 
+  - Waking Tacos
+
+## Saturday
+
+* Saturday lunch
+  - Deli Sandwiches 
+
+* Saturday Dinner
+  - Pasta Dinnerables 
+
+## Sunday
+
+* Sunday Lunch
+  - Hotdogs and Hamburgers
+
+* Sunday Dinner
+  - Pizza
