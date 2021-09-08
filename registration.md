@@ -39,13 +39,13 @@ We also take accessibility needs seriously. If you need any accommodations, plea
 
 ## Registration levels
 
-### Attending Membership: $55
+### Attending Membership: $55 (At Door: $60)
 
 An attending membership allows a member access to the event for its duration (Friday, Saturday, Sunday), food and drink at the event, and any publications at the event.
 
 You also get 2 free seed tickets for the charity auction!
 
-### Sponsor Membership: $80
+### Sponsor Membership: $80 (At Door: $85)
 
 Generosity is appreciated! Sponsors help us provide even more services and activities for our membership. A sponsor gets the full privileges of an attending membership, as well as the following:
 
