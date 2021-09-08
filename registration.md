@@ -11,7 +11,7 @@ nav-order: 1
 
 > First 200 pre-registrations will receive a gift of oddity!
 
-Pre-registration opened July 14th at Noon (7/14/2021) and will close on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration will close earlier on September 6th (9/6/2021). 
+Pre-registration opened July 14th at Noon (7/14/2021) and will close on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration closed earlier on September 6th (9/6/2021). 
 
 # WPAFW 2021 Pre-Registration 
 
@@ -56,20 +56,26 @@ Generosity is appreciated! Sponsors help us provide even more services and activ
 - Access to our Beer and Cider Bar on site (must be over 21)
 - Non-alcoholic drinks from local soda company, [Natrona Bottling Company](https://www.natronabottling.com/)! Find more info at https://www.natronabottling.com/
 
-### Super-Sponsor Membership: $160
+Super-Sponsor Registration ended on 9/6/2021. 
 
-You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:
+~~### Super-Sponsor Membership: $160~~
 
-- An extra special and customized WPAFW gift!
-- ANOTHER extra 2 seed tickets!
-- A special event (and keepsake) just for Super-Sponsors with the Guests of Honor!
-- ...and more to be announced! 🤯
+~~You are incredibly generous! We will lavish you with gifts, praise, and thanks! A Super Sponsor(!) gets the full privileges of a Sponsor membership as well as the following:~~
+
+- ~~An extra special and customized WPAFW gift!~~
+- ~~ANOTHER extra 2 seed tickets!~~
+- ~~A special event (and keepsake) just for Super-Sponsors with the Guests of Honor!~~
+- ~~...and more to be announced! 🤯~~
 
 ---
 
+#### Things To Note
+
+While many cons can offer day passes, the nature of WPAFW (daily food and drink all provided) makes it near impossible to plan for such changes in attendance.  We're sorry for the inconvenience.
+
 For 2021 we are enforcing an 18+ age restriction.
 
-We only accept visa, MasterCard, Amex, and discover through ConCat during pre-registration. Cash and card will be accepted at the venue.
+We only accept Visa, MasterCard, Amex, and Discover through ConCat during pre-registration. Cash and card will be accepted at the venue.
 
 ---
 
