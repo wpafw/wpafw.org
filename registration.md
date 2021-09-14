@@ -9,31 +9,9 @@ nav-title: Registration
 nav-order: 1
 ---
 
-> First 200 pre-registrations will receive a gift of oddity!
+> First 200 pre-registrations received a gift of oddity!
 
-Pre-registration opened July 14th at Noon (7/14/2021) and will close on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration closed earlier on September 6th (9/6/2021). 
-
-# WPAFW 2021 Pre-Registration 
-
-<div class="buttons">
-  [<button class="button is-link">PRE-REGISTER HERE</button>](https://wpafw.concat.app)
-</div>
-
-_WPAFW registration is powered by [ConCat](https://concat.app)._
-
----
-
-## How to pre-register for WPAFW:
-
-1. Go to [wpafw.concat.app](https://wpafw.concat.app).
-2. Register for an account.
-3. Once registered, on the left hand side bar is the option: Register for WPAFW 2021.
-4. Select registration level and fill out the required information.
-5. After adding your registration to the cart, there is an option to add charity tickets. Click on the link if interested!
-
-If you have any general registration questions prior to the event, please direct them to [registration@wpafw.org](mailto:registration@wpafw.org).
-
-We also take accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have other accessibility related questions, please direct them to [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
+Pre-registration opened July 14th at Noon (7/14/2021) and closed on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration closed earlier on September 6th (9/6/2021). 
 
 ---
 
@@ -66,6 +44,32 @@ Super-Sponsor Registration ended on 9/6/2021.
 - ~~ANOTHER extra 2 seed tickets!~~
 - ~~A special event (and keepsake) just for Super-Sponsors with the Guests of Honor!~~
 - ~~...and more to be announced! 🤯~~
+
+---
+
+NOTE: Pre-registration is now closed. Registration will be available at the event!
+
+# WPAFW 2021 Pre-Registration 
+
+<div class="buttons">
+  [<button class="button is-link">PRE-REGISTER HERE</button>](#)
+</div>
+
+_WPAFW registration is powered by [ConCat](https://concat.app)._
+
+---
+
+## How to pre-register for WPAFW:
+
+1. Go to [our preregistration site](#).
+2. Register for an account.
+3. Once registered, on the left hand side bar is the option: Register for WPAFW 2021.
+4. Select registration level and fill out the required information.
+5. After adding your registration to the cart, there is an option to add charity tickets. Click on the link if interested!
+
+If you have any general registration questions prior to the event, please direct them to [registration@wpafw.org](mailto:registration@wpafw.org).
+
+We also take accessibility needs seriously. If you need any accommodations, please be sure to include the information on the registration page! If you have other accessibility related questions, please direct them to [accessibility@wpafw.org](mailto:accessibility@wpafw.org).
 
 ---
 
