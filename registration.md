@@ -11,7 +11,7 @@ nav-order: 1
 
 > First 200 pre-registrations received a gift of oddity!
 
-Pre-registration opened July 14th at Noon (7/14/2021) and closed on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration closed earlier on September 6th (9/6/2021). 
+**Pre-registration opened July 14th at Noon (7/14/2021) and closed on September 12th (9/12/2021) for attendees and sponsors. Super-Sponsor pre-registration closed earlier on September 6th (9/6/2021). **
 
 ---
 
