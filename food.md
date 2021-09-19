@@ -17,7 +17,7 @@ nav-order: 2
   - Grill cheese and soup
 
 * Friday dinner 
-  - Waking Tacos
+  - Hotdogs and hamburgers
 
 ## Saturday
 
@@ -30,7 +30,7 @@ nav-order: 2
 ## Sunday
 
 * Sunday Lunch
-  - Hotdogs and Hamburgers
+  - Walking tacos
 
 * Sunday Dinner
   - Pizza

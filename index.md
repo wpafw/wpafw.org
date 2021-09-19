@@ -23,17 +23,13 @@ We have the dates for WPAFW 2021: **October 8-10, 2021**! We're really looking f
 </div>
 ---
 
-## WPAFW 2021 COVID-19 Announcement 
+## WPAFW 2021 COVID-19 Information
 
-Please read [this letter]({{'/assets/2021CovidLetter.pdf' | absolute_url}}) regarding how we're planning on handling WPAFW 2021.
+For information on our COVID-19 Policies for WPAFW 2021, please visit the following link: 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">
-Regarding WPAFW 2021, and how we are planning on moving forward with the event this year: <a href="https://t.co/vBmuhy1Xnw">pic.twitter.com/vBmuhy1Xnw</a></p>&mdash; WPAFW (@wpafw) <a href="https://twitter.com/wpafw/status/1392637718304337921?ref_src=twsrc%5Etfw">May 13, 2021</a>
-</blockquote> 
-
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8">
-</script> 
-
+<div class="buttons">
+  [<button class="button is-link">Find more information about COVID-19 Policies here!</button>](covid)
+</div>
 
 ---
 </section>

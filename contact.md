@@ -77,135 +77,35 @@ Your email will be forwarded to the appropriate director or staff member. We loo
 
 ---
 
-<div class="columns is-centered">
-<div class="column is-half">
+### Directors & Team Leads
 
-| Directors |                                              |
-| --------- | -------------------------------------------- |
-| Manick    | WPAFW Chairman, Treasurer                    |
-| Minion    | Director of RegOps                           |
-| Mere      | Director of External Communications          |
-| Blithe    | Director of Logistics, Chairman of the Board |
-| Mae-Lin   | Director of Programming                      |
-| Kyriellus | Director of Charity                          |
-| Oz Tigah  | Director of Hospitality, Secretary           |
-| Rakedu    | Director of Hospitality                      |
-| Kael      | Director of the Bar                          |
+* Manick - Chaircat / Director of Operations
+  * Bossasaur - Accessibility Co-Lead
+  * Morgain - Accessibility Co-Lead
+  * Ysera - Accessibility Co-Lead / Art Auction Lead
+  * Puzz - Security Lead
+  * Goku - Shuttle Lead
+  * taco - Website Lead
+* Kael - Director of the Bar
+* Kyriellus - Director of Charity
+* Merebear - Director of Communications
+* Oz Tigah - Co-Director of Hospitality
+* Rakedu - Co-Director of Hospitality
+* Blithe - Director of Logistics
+* Johann Faust - Director of Programming
+  * Lil Dobe - AV Lead
+  * Hitch - DJ Lead
+  * Antnommer - Photography Lead
+* Minion - Director of Registration
 
-</div>
-</div>
+### Department Staff
 
-<div class="columns is-centered">
-<div class="column is-one-fifth">
-
-| Bar          |
-| ------------ | ---------- |
-| Kael         | (Director) |
-| Banner       |
-| Vade         |
-| Wes          |
-| Leon Jackal  |
-| Tsu          |
-| Socks        |
-| TylurDaWusky |
-
-</div>
-<div class="column is-one-fifth">
-
-| Charity |
-| ------- | ----------------- |
-| Kyr     | (Director)        |
-| Yitters | (Cherry Chuckles) |
-| Rel     |
-| Nova    |
-| Kelson  | (Petulant Plum)   |
-
-</div>
-<div class="column is-one-fifth">
-
-| Communications |
-| -------------- | -------------- |
-| Merebear       | (Director)     |
-| Antnommer      | (Photographer) |
-
-</div>
-<div class="column is-one-fifth">
-
-| Hospitality |
-| ----------- | ------------- |
-| Oz Tigah    | (Co-Director) |
-| Rakedu      | (Co-Director) |
-| San         |
-| Oakley      |
-| Safler      |
-| Razor       |
-| Cross Fox   |
-| Destry      |
-| Hijinks     |
-
-</div>
-<div class="column is-one-fifth">
-
-| Operations                               |
-| ---------------------------------------- | --------------------------- |
-| Manick                                   | (Director)                  |
-| Morgain                                  | (Coordinator)               |
-| Ysera                                    | (Accessibility Coordinator) |
-| Puzz                                     | (Security Coordinator)      |
-| Goku                                     | (Shuttle Coordinator)       |
-| [taco 🐥](https://twitter.com/chirpbirb) | (Webmaster)                 |
-| Alex Shire                               |
-| Bossasaur                                |
-| Topaz                                    |
-| Alpha                                    |
-| Fang                                     |
-
-</div>
-</div>
-
-<div class="columns is-centered">
-<div class="column is-one-fourth">
-
-| Logistics |
-| --------- | ---------- |
-| Blithe    | (Director) |
-| Asch 🗑️   |
-
-</div>
-<div class="column is-one-fourth">
-
-| Programming  |
-| ------------ | ----------------------- |
-| Mae-Lin      | (Director)              |
-| Dobie        | (AV/Tech Coordinator)   |
-| Hitch        | (DJ Coordinator)        |
-| Johann Faust | (Volunteer Coordinator) |
-| Topaz        |
-
-</div>
-<div class="column is-one-fourth">
-
-| Registration |
-| ------------ | ---------- |
-| Minion       | (Director) |
-| Zydelski     |
-| Hitch        |
-
-</div>
-<div class="column is-one-fourth">
-
-| Shuttle          |
-| ---------------- | ------------- |
-| Goku             | (Coordinator) |
-| Zephy            |
-| Qᴜᴜχᴜᴍ Mᴇᴘʜɪᴛɪᴅᴀ |
-| NikkiWolf        |
-| Darkfire         |
-| Notch            |
-| Foresta          |
-
-</div>
-</div>
+* Bar: Asch, Banner, Neitcze, Socks, Tsu, TylerDaWusky, Vade, Wes
+* Charity: Bossasaur, Kelson, Nova, Rel, Yitters
+* Hospitality: Crossfox, Destry, Hyjinks Hyena, Oakley, Razor, Safler
+* Operations: Alex Shire, Alpha, Fang, Goku, Morgain, Nikkiwuff, Puzz, Quuxum Mephitida, Taco, Topaz Roo, Ysera
+* Programming: Antnommer, Hitch, Lil Dobe, Topaz Roo
+* Registration: Hitch, Zydelski
 
 ## Location
 
