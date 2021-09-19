@@ -2,7 +2,7 @@
 title: Registration | WPAFW
 permalink: "/registration"
 layout: page
-banner: 🗳 Registration (2021)
+banner: "\U0001F5F3 Registration (2021)"
 banner-color: blue
 nav: true
 nav-title: Registration

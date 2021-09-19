@@ -2,7 +2,7 @@
 title: Contact | WPAFW
 permalink: "/contact"
 layout: page
-banner: 💬 Contact
+banner: "\U0001F4AC Contact"
 banner-color: red
 nav: true
 nav-title: Contact

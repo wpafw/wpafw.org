@@ -1,7 +1,7 @@
 ---
 title: COVID-19 Information | WPAFW
 permalink: "/covid"
-banner: 😷 COVID-19 Information
+banner: "\U0001F637 COVID-19 Information"
 banner-color: red
 nav: false
 layout: page

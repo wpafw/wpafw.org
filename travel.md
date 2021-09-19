@@ -2,13 +2,12 @@
 title: Travel | WPAFW
 permalink: "/travel"
 layout: page
-banner: 🚗 Travel Info (2021)
+banner: "\U0001F697 Travel Info (2021)"
 banner-color: yellow
 nav: true
 nav-title: Travel
 nav-order: 6
 ---
-
 
 # Getting to WPAFW
 
